@@ -1,14 +1,14 @@
 [
-  { "id": "p01", "name": "樊振东", "playStyle": "弧圈", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20player%20portrait%20professional%20sports%20headshot%20male%20chinese&image_size=square" },
-  { "id": "p02", "name": "王楚钦", "playStyle": "弧圈快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20player%20portrait%20professional%20sports%20headshot%20male&image_size=square" },
-  { "id": "p03", "name": "马龙", "playStyle": "弧圈快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20veteran%20player%20portrait%20professional%20sports%20headshot&image_size=square" },
-  { "id": "p04", "name": "梁靖崑", "playStyle": "弧圈", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20player%20portrait%20professional%20sports%20headshot%20male%20strong&image_size=square" },
-  { "id": "p05", "name": "林高远", "playStyle": "快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20fast%20attacker%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p06", "name": "许昕", "playStyle": "直拍横打", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20penhold%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p07", "name": "张本智和", "playStyle": "快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20japanese%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p08", "name": "林昀儒", "playStyle": "弧圈快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20taiwanese%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p09", "name": "莫雷加德", "playStyle": "削球", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20european%20chopper%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p10", "name": "奥恰洛夫", "playStyle": "弧圈", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20german%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p11", "name": "雨果·卡尔德拉诺", "playStyle": "弧圈", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20brazilian%20player%20portrait%20professional%20sports&image_size=square" },
-  { "id": "p12", "name": "林诗栋", "playStyle": "弧圈快攻", "avatar": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=table%20tennis%20young%20player%20portrait%20professional%20sports&image_size=square" }
+  { "id": "p01", "name": "樊振东", "playStyle": "弧圈", "avatar": "/avatars/fanzhendong.jpg" },
+  { "id": "p02", "name": "王楚钦", "playStyle": "弧圈快攻", "avatar": "/avatars/wangchuqin.jpg" },
+  { "id": "p03", "name": "马龙", "playStyle": "弧圈快攻", "avatar": "/avatars/malong.jpg" },
+  { "id": "p04", "name": "梁靖崑", "playStyle": "弧圈", "avatar": "/avatars/liangjingkun.jpg" },
+  { "id": "p05", "name": "林高远", "playStyle": "快攻", "avatar": "/avatars/lingaoyuan.jpg" },
+  { "id": "p06", "name": "许昕", "playStyle": "直拍横打", "avatar": "/avatars/xuxin.jpg" },
+  { "id": "p12", "name": "林诗栋", "playStyle": "弧圈快攻", "avatar": "/avatars/linshidong.jpg" },
+  { "id": "p13", "name": "向鹏", "playStyle": "弧圈快攻", "avatar": "/avatars/xiangpeng.jpg" },
+  { "id": "p14", "name": "袁励岑", "playStyle": "弧圈快攻", "avatar": "/avatars/yuancen.jpg" },
+  { "id": "p15", "name": "孙颖莎", "playStyle": "弧圈快攻", "avatar": "/avatars/sunyingsha.jpg" },
+  { "id": "p16", "name": "王曼昱", "playStyle": "弧圈", "avatar": "/avatars/wangmanyu.jpg" },
+  { "id": "p17", "name": "陈梦", "playStyle": "弧圈", "avatar": "/avatars/chenmeng.jpg" }
 ]

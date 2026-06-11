@@ -68,23 +68,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m005",
-    "opponent": "严升",
-    "date": "2025-06-07",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 80.4,
-      "backhandStability": 72.9,
-      "serveAttackRate": 66,
-      "receiveWinRate": 55.8,
-      "rallyConvertRate": 60.2,
-      "shortGameRate": 47.8,
-      "speedIndex": 72.3,
-      "placementRate": 43.3
-    }
-  },
-  {
     "playerId": "p01",
     "matchId": "m006",
     "opponent": "加西纳",
@@ -98,40 +81,6 @@
       "rallyConvertRate": 49.1,
       "shortGameRate": 71.7,
       "speedIndex": 80.5,
-      "placementRate": 62.2
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m007",
-    "opponent": "李尚洙",
-    "date": "2025-06-08",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 71,
-      "backhandStability": 68.4,
-      "serveAttackRate": 34.8,
-      "receiveWinRate": 69.5,
-      "rallyConvertRate": 53.7,
-      "shortGameRate": 54.8,
-      "speedIndex": 84.5,
-      "placementRate": 48.3
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m008",
-    "opponent": "黄镇廷",
-    "date": "2025-06-09",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 70.5,
-      "backhandStability": 50.7,
-      "serveAttackRate": 56.3,
-      "receiveWinRate": 57.4,
-      "rallyConvertRate": 55.6,
-      "shortGameRate": 64.4,
-      "speedIndex": 60.6,
       "placementRate": 62.2
     }
   },
@@ -255,57 +204,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m016",
-    "opponent": "K·卡尔伯格",
-    "date": "2025-06-17",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 60.2,
-      "backhandStability": 63.1,
-      "serveAttackRate": 66.7,
-      "receiveWinRate": 67.8,
-      "rallyConvertRate": 45,
-      "shortGameRate": 46.7,
-      "speedIndex": 71,
-      "placementRate": 45.1
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m017",
-    "opponent": "薛飞",
-    "date": "2025-06-17",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 63.4,
-      "backhandStability": 62.6,
-      "serveAttackRate": 47.3,
-      "receiveWinRate": 43.8,
-      "rallyConvertRate": 52.8,
-      "shortGameRate": 51.4,
-      "speedIndex": 63.5,
-      "placementRate": 60.4
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m018",
-    "opponent": "格罗斯",
-    "date": "2025-06-18",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 71.2,
-      "backhandStability": 69.9,
-      "serveAttackRate": 59.1,
-      "receiveWinRate": 63,
-      "rallyConvertRate": 35.3,
-      "shortGameRate": 54.8,
-      "speedIndex": 66.1,
-      "placementRate": 42.2
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m019",
     "opponent": "严升",
@@ -337,57 +235,6 @@
       "shortGameRate": 73.2,
       "speedIndex": 76.5,
       "placementRate": 44
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m021",
-    "opponent": "卡尔松",
-    "date": "2025-06-23",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 75.6,
-      "backhandStability": 76.6,
-      "serveAttackRate": 57.8,
-      "receiveWinRate": 41.1,
-      "rallyConvertRate": 58.6,
-      "shortGameRate": 58.7,
-      "speedIndex": 74.8,
-      "placementRate": 64.2
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m022",
-    "opponent": "赵子豪",
-    "date": "2025-06-24",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 49.1,
-      "backhandStability": 54.7,
-      "serveAttackRate": 30.2,
-      "receiveWinRate": 40.4,
-      "rallyConvertRate": 59.5,
-      "shortGameRate": 74.9,
-      "speedIndex": 81.3,
-      "placementRate": 40.5
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m023",
-    "opponent": "马特",
-    "date": "2025-06-28",
-    "month": "2025-06",
-    "indicators": {
-      "forehandWinRate": 72.7,
-      "backhandStability": 66.5,
-      "serveAttackRate": 54.9,
-      "receiveWinRate": 56.4,
-      "rallyConvertRate": 48,
-      "shortGameRate": 48.5,
-      "speedIndex": 81.1,
-      "placementRate": 56.7
     }
   },
   {
@@ -425,91 +272,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m026",
-    "opponent": "丹羽孝希",
-    "date": "2025-07-04",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 72.4,
-      "backhandStability": 58.9,
-      "serveAttackRate": 46.6,
-      "receiveWinRate": 70.7,
-      "rallyConvertRate": 62.7,
-      "shortGameRate": 66.1,
-      "speedIndex": 87.7,
-      "placementRate": 43.9
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m027",
-    "opponent": "张继科",
-    "date": "2025-07-09",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 66.1,
-      "backhandStability": 79.4,
-      "serveAttackRate": 51.4,
-      "receiveWinRate": 53.5,
-      "rallyConvertRate": 44.9,
-      "shortGameRate": 46.7,
-      "speedIndex": 59.1,
-      "placementRate": 64.2
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m028",
-    "opponent": "阿鲁纳",
-    "date": "2025-07-10",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 71.6,
-      "backhandStability": 79,
-      "serveAttackRate": 57.7,
-      "receiveWinRate": 66.8,
-      "rallyConvertRate": 59.5,
-      "shortGameRate": 50.7,
-      "speedIndex": 87.9,
-      "placementRate": 59
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m029",
-    "opponent": "徐晨皓",
-    "date": "2025-07-12",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 65.6,
-      "backhandStability": 67.2,
-      "serveAttackRate": 50.1,
-      "receiveWinRate": 51.8,
-      "rallyConvertRate": 41.1,
-      "shortGameRate": 59.2,
-      "speedIndex": 60,
-      "placementRate": 59.7
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m030",
-    "opponent": "松平健太",
-    "date": "2025-07-12",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 70.2,
-      "backhandStability": 55.6,
-      "serveAttackRate": 43.6,
-      "receiveWinRate": 64,
-      "rallyConvertRate": 51.2,
-      "shortGameRate": 47.4,
-      "speedIndex": 70.3,
-      "placementRate": 52.5
-    }
-  },
-  {
     "playerId": "p05",
     "matchId": "m031",
     "opponent": "袁励岑",
@@ -541,23 +303,6 @@
       "shortGameRate": 70.4,
       "speedIndex": 82.6,
       "placementRate": 72.6
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m033",
-    "opponent": "闫安",
-    "date": "2025-07-15",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 71.7,
-      "backhandStability": 63.4,
-      "serveAttackRate": 65.5,
-      "receiveWinRate": 61.5,
-      "rallyConvertRate": 42.7,
-      "shortGameRate": 71.3,
-      "speedIndex": 82.7,
-      "placementRate": 43.7
     }
   },
   {
@@ -612,40 +357,6 @@
     }
   },
   {
-    "playerId": "p09",
-    "matchId": "m037",
-    "opponent": "法尔克",
-    "date": "2025-07-18",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 70.4,
-      "backhandStability": 61.4,
-      "serveAttackRate": 40.1,
-      "receiveWinRate": 66,
-      "rallyConvertRate": 57.9,
-      "shortGameRate": 67.4,
-      "speedIndex": 72,
-      "placementRate": 43
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m038",
-    "opponent": "侯英超",
-    "date": "2025-07-20",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 55.5,
-      "backhandStability": 64.3,
-      "serveAttackRate": 63.1,
-      "receiveWinRate": 61.8,
-      "rallyConvertRate": 60.2,
-      "shortGameRate": 72.6,
-      "speedIndex": 89,
-      "placementRate": 70
-    }
-  },
-  {
     "playerId": "p05",
     "matchId": "m039",
     "opponent": "黄镇廷",
@@ -663,23 +374,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m040",
-    "opponent": "丹羽孝希",
-    "date": "2025-07-24",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 74.5,
-      "backhandStability": 53.8,
-      "serveAttackRate": 62.5,
-      "receiveWinRate": 68.4,
-      "rallyConvertRate": 44.9,
-      "shortGameRate": 53.6,
-      "speedIndex": 78.8,
-      "placementRate": 53.1
-    }
-  },
-  {
     "playerId": "p04",
     "matchId": "m041",
     "opponent": "李尚洙",
@@ -694,23 +388,6 @@
       "shortGameRate": 54.4,
       "speedIndex": 67.6,
       "placementRate": 54.5
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m042",
-    "opponent": "方博",
-    "date": "2025-07-27",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 67.2,
-      "backhandStability": 71.1,
-      "serveAttackRate": 52.9,
-      "receiveWinRate": 42,
-      "rallyConvertRate": 43.7,
-      "shortGameRate": 70.8,
-      "speedIndex": 57.6,
-      "placementRate": 40.2
     }
   },
   {
@@ -748,23 +425,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m045",
-    "opponent": "法尔克",
-    "date": "2025-07-30",
-    "month": "2025-07",
-    "indicators": {
-      "forehandWinRate": 75.6,
-      "backhandStability": 79.7,
-      "serveAttackRate": 40.9,
-      "receiveWinRate": 47,
-      "rallyConvertRate": 62.9,
-      "shortGameRate": 70.5,
-      "speedIndex": 82.4,
-      "placementRate": 70.5
-    }
-  },
-  {
     "playerId": "p06",
     "matchId": "m046",
     "opponent": "徐晨皓",
@@ -779,57 +439,6 @@
       "shortGameRate": 69.5,
       "speedIndex": 82.6,
       "placementRate": 74.4
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m047",
-    "opponent": "闫安",
-    "date": "2025-08-02",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 52.8,
-      "backhandStability": 68.7,
-      "serveAttackRate": 62.6,
-      "receiveWinRate": 65.2,
-      "rallyConvertRate": 64.7,
-      "shortGameRate": 62.3,
-      "speedIndex": 73.6,
-      "placementRate": 45.3
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m048",
-    "opponent": "向鹏",
-    "date": "2025-08-03",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 77.1,
-      "backhandStability": 58.3,
-      "serveAttackRate": 55.2,
-      "receiveWinRate": 71.6,
-      "rallyConvertRate": 43.7,
-      "shortGameRate": 73.9,
-      "speedIndex": 84.9,
-      "placementRate": 42.9
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m049",
-    "opponent": "侯英超",
-    "date": "2025-08-04",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 61.7,
-      "backhandStability": 58,
-      "serveAttackRate": 53.3,
-      "receiveWinRate": 63.1,
-      "rallyConvertRate": 49.2,
-      "shortGameRate": 73.3,
-      "speedIndex": 67,
-      "placementRate": 46.7
     }
   },
   {
@@ -850,57 +459,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m051",
-    "opponent": "法尔克",
-    "date": "2025-08-05",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 73.1,
-      "backhandStability": 72.6,
-      "serveAttackRate": 57.3,
-      "receiveWinRate": 65,
-      "rallyConvertRate": 64.2,
-      "shortGameRate": 57.3,
-      "speedIndex": 91.4,
-      "placementRate": 44.4
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m052",
-    "opponent": "松平健太",
-    "date": "2025-08-05",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 77.2,
-      "backhandStability": 67.2,
-      "serveAttackRate": 37.2,
-      "receiveWinRate": 52.2,
-      "rallyConvertRate": 50.3,
-      "shortGameRate": 48.3,
-      "speedIndex": 71.9,
-      "placementRate": 63.2
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m053",
-    "opponent": "侯英超",
-    "date": "2025-08-07",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 52.7,
-      "backhandStability": 61.7,
-      "serveAttackRate": 67.6,
-      "receiveWinRate": 53.3,
-      "rallyConvertRate": 48,
-      "shortGameRate": 70.7,
-      "speedIndex": 64.2,
-      "placementRate": 68
-    }
-  },
-  {
     "playerId": "p06",
     "matchId": "m054",
     "opponent": "周雨",
@@ -918,40 +476,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m055",
-    "opponent": "严升",
-    "date": "2025-08-08",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 60.7,
-      "backhandStability": 66.9,
-      "serveAttackRate": 66.4,
-      "receiveWinRate": 57.1,
-      "rallyConvertRate": 44.1,
-      "shortGameRate": 56.5,
-      "speedIndex": 67.2,
-      "placementRate": 69.2
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m056",
-    "opponent": "李尚洙",
-    "date": "2025-08-09",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 59.4,
-      "backhandStability": 56.2,
-      "serveAttackRate": 51.4,
-      "receiveWinRate": 61.8,
-      "rallyConvertRate": 39.8,
-      "shortGameRate": 58.5,
-      "speedIndex": 78.3,
-      "placementRate": 55.4
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m057",
     "opponent": "萨姆索诺夫",
@@ -966,23 +490,6 @@
       "shortGameRate": 74.8,
       "speedIndex": 89.5,
       "placementRate": 62.3
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m058",
-    "opponent": "郑荣植",
-    "date": "2025-08-11",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 59.8,
-      "backhandStability": 52.5,
-      "serveAttackRate": 66,
-      "receiveWinRate": 53.3,
-      "rallyConvertRate": 61.5,
-      "shortGameRate": 74.7,
-      "speedIndex": 67.6,
-      "placementRate": 49.9
     }
   },
   {
@@ -1071,23 +578,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m064",
-    "opponent": "向鹏",
-    "date": "2025-08-25",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 65.6,
-      "backhandStability": 69.3,
-      "serveAttackRate": 62.1,
-      "receiveWinRate": 65.5,
-      "rallyConvertRate": 40.1,
-      "shortGameRate": 68.9,
-      "speedIndex": 55.1,
-      "placementRate": 62.3
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m065",
     "opponent": "费雷塔斯",
@@ -1119,23 +609,6 @@
       "shortGameRate": 53.9,
       "speedIndex": 59.1,
       "placementRate": 58.8
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m067",
-    "opponent": "唐鹏",
-    "date": "2025-08-30",
-    "month": "2025-08",
-    "indicators": {
-      "forehandWinRate": 73.6,
-      "backhandStability": 63.3,
-      "serveAttackRate": 52.4,
-      "receiveWinRate": 60.5,
-      "rallyConvertRate": 56.1,
-      "shortGameRate": 56.9,
-      "speedIndex": 78.4,
-      "placementRate": 64
     }
   },
   {
@@ -1190,23 +663,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m071",
-    "opponent": "唐鹏",
-    "date": "2025-09-04",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 58.7,
-      "backhandStability": 79.7,
-      "serveAttackRate": 50.1,
-      "receiveWinRate": 40.5,
-      "rallyConvertRate": 36.9,
-      "shortGameRate": 58.6,
-      "speedIndex": 61.4,
-      "placementRate": 57.3
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m072",
     "opponent": "K·卡尔伯格",
@@ -1221,23 +677,6 @@
       "shortGameRate": 48.4,
       "speedIndex": 77.2,
       "placementRate": 43.1
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m073",
-    "opponent": "波尔",
-    "date": "2025-09-09",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 75.5,
-      "backhandStability": 74.1,
-      "serveAttackRate": 66.7,
-      "receiveWinRate": 45.1,
-      "rallyConvertRate": 53.5,
-      "shortGameRate": 49.6,
-      "speedIndex": 80.6,
-      "placementRate": 57.1
     }
   },
   {
@@ -1275,23 +714,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m076",
-    "opponent": "郑荣植",
-    "date": "2025-09-15",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 75.1,
-      "backhandStability": 53.3,
-      "serveAttackRate": 60,
-      "receiveWinRate": 45.4,
-      "rallyConvertRate": 64.3,
-      "shortGameRate": 73.1,
-      "speedIndex": 73.9,
-      "placementRate": 49.7
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m077",
     "opponent": "薛飞",
@@ -1306,23 +728,6 @@
       "shortGameRate": 69.2,
       "speedIndex": 52.3,
       "placementRate": 56.7
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m078",
-    "opponent": "向鹏",
-    "date": "2025-09-16",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 71.6,
-      "backhandStability": 56.3,
-      "serveAttackRate": 62.1,
-      "receiveWinRate": 54,
-      "rallyConvertRate": 64.9,
-      "shortGameRate": 72.7,
-      "speedIndex": 83.1,
-      "placementRate": 48.5
     }
   },
   {
@@ -1374,23 +779,6 @@
       "shortGameRate": 55.2,
       "speedIndex": 69.5,
       "placementRate": 58.6
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m082",
-    "opponent": "庄智渊",
-    "date": "2025-09-19",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 65.8,
-      "backhandStability": 60.4,
-      "serveAttackRate": 33.5,
-      "receiveWinRate": 61.3,
-      "rallyConvertRate": 51.5,
-      "shortGameRate": 58.1,
-      "speedIndex": 59.9,
-      "placementRate": 64.6
     }
   },
   {
@@ -1530,91 +918,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m091",
-    "opponent": "庄智渊",
-    "date": "2025-09-29",
-    "month": "2025-09",
-    "indicators": {
-      "forehandWinRate": 81.6,
-      "backhandStability": 77.4,
-      "serveAttackRate": 50.5,
-      "receiveWinRate": 59.7,
-      "rallyConvertRate": 40.1,
-      "shortGameRate": 68.3,
-      "speedIndex": 82.2,
-      "placementRate": 61.8
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m092",
-    "opponent": "法尔克",
-    "date": "2025-10-02",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 58,
-      "backhandStability": 59.9,
-      "serveAttackRate": 51.1,
-      "receiveWinRate": 55.8,
-      "rallyConvertRate": 47.7,
-      "shortGameRate": 60.6,
-      "speedIndex": 83.3,
-      "placementRate": 68.2
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m093",
-    "opponent": "加西纳",
-    "date": "2025-10-05",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 72.5,
-      "backhandStability": 79.3,
-      "serveAttackRate": 67.5,
-      "receiveWinRate": 57.5,
-      "rallyConvertRate": 51.8,
-      "shortGameRate": 71.8,
-      "speedIndex": 85.1,
-      "placementRate": 64.2
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m094",
-    "opponent": "闫安",
-    "date": "2025-10-05",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 74.3,
-      "backhandStability": 50.4,
-      "serveAttackRate": 44.4,
-      "receiveWinRate": 46.3,
-      "rallyConvertRate": 39.7,
-      "shortGameRate": 59.7,
-      "speedIndex": 75.8,
-      "placementRate": 41.5
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m095",
-    "opponent": "严升",
-    "date": "2025-10-07",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 65.2,
-      "backhandStability": 51.3,
-      "serveAttackRate": 36.9,
-      "receiveWinRate": 47.6,
-      "rallyConvertRate": 64.3,
-      "shortGameRate": 59.3,
-      "speedIndex": 75.8,
-      "placementRate": 49.5
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m096",
     "opponent": "李尚洙",
@@ -1663,23 +966,6 @@
       "shortGameRate": 56,
       "speedIndex": 68.7,
       "placementRate": 47.6
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m099",
-    "opponent": "弗朗西斯卡",
-    "date": "2025-10-10",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 73.9,
-      "backhandStability": 61.3,
-      "serveAttackRate": 57.1,
-      "receiveWinRate": 61.8,
-      "rallyConvertRate": 46.8,
-      "shortGameRate": 57.7,
-      "speedIndex": 77.5,
-      "placementRate": 74.8
     }
   },
   {
@@ -1768,40 +1054,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m105",
-    "opponent": "闫安",
-    "date": "2025-10-15",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 71.7,
-      "backhandStability": 60.9,
-      "serveAttackRate": 47,
-      "receiveWinRate": 66.7,
-      "rallyConvertRate": 52.1,
-      "shortGameRate": 63.2,
-      "speedIndex": 80.2,
-      "placementRate": 53.8
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m106",
-    "opponent": "K·卡尔伯格",
-    "date": "2025-10-18",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 69.6,
-      "backhandStability": 57.8,
-      "serveAttackRate": 38.6,
-      "receiveWinRate": 52.2,
-      "rallyConvertRate": 44.8,
-      "shortGameRate": 51.6,
-      "speedIndex": 84,
-      "placementRate": 65.9
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m107",
     "opponent": "赵子豪",
@@ -1833,40 +1085,6 @@
       "shortGameRate": 57.6,
       "speedIndex": 79.4,
       "placementRate": 48.7
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m109",
-    "opponent": "K·卡尔伯格",
-    "date": "2025-10-24",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 73.1,
-      "backhandStability": 72,
-      "serveAttackRate": 56.6,
-      "receiveWinRate": 67.8,
-      "rallyConvertRate": 57.6,
-      "shortGameRate": 56.6,
-      "speedIndex": 62.6,
-      "placementRate": 58.8
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m110",
-    "opponent": "黄镇廷",
-    "date": "2025-10-26",
-    "month": "2025-10",
-    "indicators": {
-      "forehandWinRate": 55.9,
-      "backhandStability": 60.4,
-      "serveAttackRate": 61.5,
-      "receiveWinRate": 58.2,
-      "rallyConvertRate": 46.7,
-      "shortGameRate": 49.5,
-      "speedIndex": 90.7,
-      "placementRate": 40.8
     }
   },
   {
@@ -1904,23 +1122,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m113",
-    "opponent": "方博",
-    "date": "2025-11-07",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 70.4,
-      "backhandStability": 65.9,
-      "serveAttackRate": 50.4,
-      "receiveWinRate": 69.5,
-      "rallyConvertRate": 50,
-      "shortGameRate": 45.7,
-      "speedIndex": 70.4,
-      "placementRate": 61.2
-    }
-  },
-  {
     "playerId": "p01",
     "matchId": "m114",
     "opponent": "庄智渊",
@@ -1935,23 +1136,6 @@
       "shortGameRate": 53.9,
       "speedIndex": 81.6,
       "placementRate": 43.6
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m115",
-    "opponent": "法尔克",
-    "date": "2025-11-08",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 62.7,
-      "backhandStability": 69.6,
-      "serveAttackRate": 49.4,
-      "receiveWinRate": 68.9,
-      "rallyConvertRate": 36.7,
-      "shortGameRate": 48.4,
-      "speedIndex": 70.7,
-      "placementRate": 44.1
     }
   },
   {
@@ -2006,74 +1190,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m119",
-    "opponent": "郑荣植",
-    "date": "2025-11-10",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 69.6,
-      "backhandStability": 69.2,
-      "serveAttackRate": 52.2,
-      "receiveWinRate": 66.3,
-      "rallyConvertRate": 56.5,
-      "shortGameRate": 65.7,
-      "speedIndex": 56.3,
-      "placementRate": 53.6
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m120",
-    "opponent": "方博",
-    "date": "2025-11-12",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 71.6,
-      "backhandStability": 64.3,
-      "serveAttackRate": 48.4,
-      "receiveWinRate": 70,
-      "rallyConvertRate": 46.4,
-      "shortGameRate": 47.7,
-      "speedIndex": 64.5,
-      "placementRate": 74.1
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m121",
-    "opponent": "周雨",
-    "date": "2025-11-13",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 69,
-      "backhandStability": 64.4,
-      "serveAttackRate": 64.3,
-      "receiveWinRate": 65.5,
-      "rallyConvertRate": 61.8,
-      "shortGameRate": 65.7,
-      "speedIndex": 71.3,
-      "placementRate": 49.1
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m122",
-    "opponent": "马特",
-    "date": "2025-11-19",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 77.5,
-      "backhandStability": 58.3,
-      "serveAttackRate": 50.4,
-      "receiveWinRate": 61.5,
-      "rallyConvertRate": 46.3,
-      "shortGameRate": 71.7,
-      "speedIndex": 79.4,
-      "placementRate": 64.3
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m123",
     "opponent": "周雨",
@@ -2105,23 +1221,6 @@
       "shortGameRate": 57.7,
       "speedIndex": 50.4,
       "placementRate": 75
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m125",
-    "opponent": "阿鲁纳",
-    "date": "2025-11-21",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 66.5,
-      "backhandStability": 73.4,
-      "serveAttackRate": 54.2,
-      "receiveWinRate": 65.6,
-      "rallyConvertRate": 49.4,
-      "shortGameRate": 67.8,
-      "speedIndex": 71.8,
-      "placementRate": 59.2
     }
   },
   {
@@ -2176,23 +1275,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m129",
-    "opponent": "张继科",
-    "date": "2025-11-24",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 82.1,
-      "backhandStability": 73.5,
-      "serveAttackRate": 63.7,
-      "receiveWinRate": 65.2,
-      "rallyConvertRate": 46.5,
-      "shortGameRate": 68.1,
-      "speedIndex": 87.9,
-      "placementRate": 65.9
-    }
-  },
-  {
     "playerId": "p06",
     "matchId": "m130",
     "opponent": "严升",
@@ -2224,23 +1306,6 @@
       "shortGameRate": 63.3,
       "speedIndex": 53.6,
       "placementRate": 70.3
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m132",
-    "opponent": "向鹏",
-    "date": "2025-11-28",
-    "month": "2025-11",
-    "indicators": {
-      "forehandWinRate": 46.8,
-      "backhandStability": 64.1,
-      "serveAttackRate": 41.5,
-      "receiveWinRate": 44.2,
-      "rallyConvertRate": 63.3,
-      "shortGameRate": 74.6,
-      "speedIndex": 58.9,
-      "placementRate": 62.2
     }
   },
   {
@@ -2278,74 +1343,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m135",
-    "opponent": "加西纳",
-    "date": "2025-12-05",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 73.9,
-      "backhandStability": 58.7,
-      "serveAttackRate": 33,
-      "receiveWinRate": 57.6,
-      "rallyConvertRate": 37.2,
-      "shortGameRate": 50.6,
-      "speedIndex": 73.7,
-      "placementRate": 50.5
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m136",
-    "opponent": "波尔",
-    "date": "2025-12-05",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 72.3,
-      "backhandStability": 63.3,
-      "serveAttackRate": 69.1,
-      "receiveWinRate": 59,
-      "rallyConvertRate": 63.4,
-      "shortGameRate": 73.6,
-      "speedIndex": 68.2,
-      "placementRate": 55
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m137",
-    "opponent": "松平健太",
-    "date": "2025-12-07",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 68,
-      "backhandStability": 67.4,
-      "serveAttackRate": 56.4,
-      "receiveWinRate": 53.6,
-      "rallyConvertRate": 61,
-      "shortGameRate": 62.3,
-      "speedIndex": 83.1,
-      "placementRate": 44.6
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m138",
-    "opponent": "西蒙高茨",
-    "date": "2025-12-12",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 74.6,
-      "backhandStability": 80,
-      "serveAttackRate": 65.9,
-      "receiveWinRate": 62.3,
-      "rallyConvertRate": 50.6,
-      "shortGameRate": 70.3,
-      "speedIndex": 90.2,
-      "placementRate": 46.7
-    }
-  },
-  {
     "playerId": "p04",
     "matchId": "m139",
     "opponent": "徐晨皓",
@@ -2360,40 +1357,6 @@
       "shortGameRate": 48.4,
       "speedIndex": 56.3,
       "placementRate": 55.3
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m140",
-    "opponent": "周雨",
-    "date": "2025-12-14",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 53.4,
-      "backhandStability": 62.7,
-      "serveAttackRate": 52.8,
-      "receiveWinRate": 43,
-      "rallyConvertRate": 62.2,
-      "shortGameRate": 60.7,
-      "speedIndex": 75.7,
-      "placementRate": 44.1
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m141",
-    "opponent": "K·卡尔伯格",
-    "date": "2025-12-14",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 80.6,
-      "backhandStability": 76.7,
-      "serveAttackRate": 49.8,
-      "receiveWinRate": 63.6,
-      "rallyConvertRate": 45,
-      "shortGameRate": 51.4,
-      "speedIndex": 70.9,
-      "placementRate": 65.4
     }
   },
   {
@@ -2431,40 +1394,6 @@
     }
   },
   {
-    "playerId": "p09",
-    "matchId": "m144",
-    "opponent": "朱世爀",
-    "date": "2025-12-17",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 70.9,
-      "backhandStability": 62.4,
-      "serveAttackRate": 48.2,
-      "receiveWinRate": 53.9,
-      "rallyConvertRate": 54.9,
-      "shortGameRate": 66.2,
-      "speedIndex": 86.2,
-      "placementRate": 69.1
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m145",
-    "opponent": "侯英超",
-    "date": "2025-12-17",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 71.5,
-      "backhandStability": 79,
-      "serveAttackRate": 62.3,
-      "receiveWinRate": 63.4,
-      "rallyConvertRate": 53.5,
-      "shortGameRate": 60.1,
-      "speedIndex": 62.4,
-      "placementRate": 47.9
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m146",
     "opponent": "吉村真晴",
@@ -2499,23 +1428,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m148",
-    "opponent": "周雨",
-    "date": "2025-12-21",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 70.8,
-      "backhandStability": 69.8,
-      "serveAttackRate": 43.4,
-      "receiveWinRate": 57.2,
-      "rallyConvertRate": 46.3,
-      "shortGameRate": 54,
-      "speedIndex": 81.1,
-      "placementRate": 71.4
-    }
-  },
-  {
     "playerId": "p06",
     "matchId": "m149",
     "opponent": "阿鲁纳",
@@ -2530,23 +1442,6 @@
       "shortGameRate": 70,
       "speedIndex": 50.8,
       "placementRate": 62.6
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m150",
-    "opponent": "波尔",
-    "date": "2025-12-22",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 73.2,
-      "backhandStability": 75.2,
-      "serveAttackRate": 54.3,
-      "receiveWinRate": 50.4,
-      "rallyConvertRate": 51,
-      "shortGameRate": 54.3,
-      "speedIndex": 62.8,
-      "placementRate": 42.3
     }
   },
   {
@@ -2567,23 +1462,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m152",
-    "opponent": "薛飞",
-    "date": "2025-12-26",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 73.8,
-      "backhandStability": 60,
-      "serveAttackRate": 55,
-      "receiveWinRate": 53.9,
-      "rallyConvertRate": 56.4,
-      "shortGameRate": 57.4,
-      "speedIndex": 91.2,
-      "placementRate": 43.7
-    }
-  },
-  {
     "playerId": "p01",
     "matchId": "m153",
     "opponent": "卡尔松",
@@ -2598,23 +1476,6 @@
       "shortGameRate": 50.2,
       "speedIndex": 86.9,
       "placementRate": 48.3
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m154",
-    "opponent": "李尚洙",
-    "date": "2025-12-30",
-    "month": "2025-12",
-    "indicators": {
-      "forehandWinRate": 50.8,
-      "backhandStability": 61.3,
-      "serveAttackRate": 49.9,
-      "receiveWinRate": 48.5,
-      "rallyConvertRate": 55.1,
-      "shortGameRate": 57.9,
-      "speedIndex": 70.9,
-      "placementRate": 59.1
     }
   },
   {
@@ -2652,40 +1513,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m157",
-    "opponent": "于子洋",
-    "date": "2026-01-01",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 62.5,
-      "backhandStability": 56,
-      "serveAttackRate": 63.6,
-      "receiveWinRate": 48.1,
-      "rallyConvertRate": 53.7,
-      "shortGameRate": 51.4,
-      "speedIndex": 58.6,
-      "placementRate": 57.1
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m158",
-    "opponent": "周雨",
-    "date": "2026-01-02",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 84.7,
-      "backhandStability": 58.4,
-      "serveAttackRate": 64.3,
-      "receiveWinRate": 66.8,
-      "rallyConvertRate": 35,
-      "shortGameRate": 59.7,
-      "speedIndex": 80.8,
-      "placementRate": 72.4
-    }
-  },
-  {
     "playerId": "p01",
     "matchId": "m159",
     "opponent": "张继科",
@@ -2717,57 +1544,6 @@
       "shortGameRate": 71.9,
       "speedIndex": 58.2,
       "placementRate": 71.7
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m161",
-    "opponent": "严升",
-    "date": "2026-01-05",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 77.5,
-      "backhandStability": 60.2,
-      "serveAttackRate": 40.1,
-      "receiveWinRate": 60.5,
-      "rallyConvertRate": 36.4,
-      "shortGameRate": 60.5,
-      "speedIndex": 88.3,
-      "placementRate": 60.8
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m162",
-    "opponent": "薛飞",
-    "date": "2026-01-05",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 46.4,
-      "backhandStability": 74.2,
-      "serveAttackRate": 68.8,
-      "receiveWinRate": 66.2,
-      "rallyConvertRate": 61.6,
-      "shortGameRate": 62.7,
-      "speedIndex": 67.7,
-      "placementRate": 46.3
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m163",
-    "opponent": "庄智渊",
-    "date": "2026-01-09",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 69.9,
-      "backhandStability": 60.8,
-      "serveAttackRate": 52.4,
-      "receiveWinRate": 57.4,
-      "rallyConvertRate": 64.6,
-      "shortGameRate": 45.3,
-      "speedIndex": 59.9,
-      "placementRate": 58.2
     }
   },
   {
@@ -2822,23 +1598,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m167",
-    "opponent": "萨姆索诺夫",
-    "date": "2026-01-14",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 81.2,
-      "backhandStability": 59.2,
-      "serveAttackRate": 63.3,
-      "receiveWinRate": 52,
-      "rallyConvertRate": 60,
-      "shortGameRate": 64.1,
-      "speedIndex": 91.5,
-      "placementRate": 61.1
-    }
-  },
-  {
     "playerId": "p12",
     "matchId": "m168",
     "opponent": "张继科",
@@ -2853,74 +1612,6 @@
       "shortGameRate": 51.7,
       "speedIndex": 92.2,
       "placementRate": 64.6
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m169",
-    "opponent": "阿鲁纳",
-    "date": "2026-01-17",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 71.3,
-      "backhandStability": 55.7,
-      "serveAttackRate": 63.4,
-      "receiveWinRate": 49.5,
-      "rallyConvertRate": 62,
-      "shortGameRate": 69.2,
-      "speedIndex": 56.5,
-      "placementRate": 65.5
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m170",
-    "opponent": "法尔克",
-    "date": "2026-01-19",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 74.4,
-      "backhandStability": 73.6,
-      "serveAttackRate": 68.3,
-      "receiveWinRate": 54.4,
-      "rallyConvertRate": 35.3,
-      "shortGameRate": 48.3,
-      "speedIndex": 84.9,
-      "placementRate": 58.9
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m171",
-    "opponent": "侯英超",
-    "date": "2026-01-20",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 65.3,
-      "backhandStability": 71.3,
-      "serveAttackRate": 48.2,
-      "receiveWinRate": 62.3,
-      "rallyConvertRate": 51,
-      "shortGameRate": 45.4,
-      "speedIndex": 75.6,
-      "placementRate": 74.6
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m172",
-    "opponent": "弗朗西斯卡",
-    "date": "2026-01-21",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 59.9,
-      "backhandStability": 66,
-      "serveAttackRate": 55.9,
-      "receiveWinRate": 58.2,
-      "rallyConvertRate": 60.5,
-      "shortGameRate": 62.9,
-      "speedIndex": 91.5,
-      "placementRate": 42.5
     }
   },
   {
@@ -3026,23 +1717,6 @@
     }
   },
   {
-    "playerId": "p09",
-    "matchId": "m179",
-    "opponent": "吉村真晴",
-    "date": "2026-01-30",
-    "month": "2026-01",
-    "indicators": {
-      "forehandWinRate": 55.8,
-      "backhandStability": 61.9,
-      "serveAttackRate": 48.7,
-      "receiveWinRate": 49.8,
-      "rallyConvertRate": 52.6,
-      "shortGameRate": 68.8,
-      "speedIndex": 81.6,
-      "placementRate": 73.8
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m180",
     "opponent": "吉村真晴",
@@ -3091,40 +1765,6 @@
       "shortGameRate": 46,
       "speedIndex": 70.8,
       "placementRate": 78
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m183",
-    "opponent": "费雷塔斯",
-    "date": "2026-02-05",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 65.3,
-      "backhandStability": 58.2,
-      "serveAttackRate": 49.8,
-      "receiveWinRate": 63.8,
-      "rallyConvertRate": 46.3,
-      "shortGameRate": 49.5,
-      "speedIndex": 73.2,
-      "placementRate": 73.4
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m184",
-    "opponent": "唐鹏",
-    "date": "2026-02-05",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 50.5,
-      "backhandStability": 66.2,
-      "serveAttackRate": 57.6,
-      "receiveWinRate": 49.7,
-      "rallyConvertRate": 48.9,
-      "shortGameRate": 63.3,
-      "speedIndex": 51.4,
-      "placementRate": 61.6
     }
   },
   {
@@ -3179,91 +1819,6 @@
     }
   },
   {
-    "playerId": "p10",
-    "matchId": "m188",
-    "opponent": "格罗斯",
-    "date": "2026-02-08",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 63.5,
-      "backhandStability": 51.9,
-      "serveAttackRate": 52.1,
-      "receiveWinRate": 48.5,
-      "rallyConvertRate": 49.1,
-      "shortGameRate": 61.3,
-      "speedIndex": 70.1,
-      "placementRate": 58.1
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m189",
-    "opponent": "张继科",
-    "date": "2026-02-08",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 74.7,
-      "backhandStability": 72.9,
-      "serveAttackRate": 54.7,
-      "receiveWinRate": 65.5,
-      "rallyConvertRate": 44.5,
-      "shortGameRate": 64.1,
-      "speedIndex": 71.6,
-      "placementRate": 67.1
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m190",
-    "opponent": "严升",
-    "date": "2026-02-10",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 72.6,
-      "backhandStability": 76.5,
-      "serveAttackRate": 62.4,
-      "receiveWinRate": 50.3,
-      "rallyConvertRate": 38.3,
-      "shortGameRate": 46.8,
-      "speedIndex": 64.9,
-      "placementRate": 59.6
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m191",
-    "opponent": "向鹏",
-    "date": "2026-02-10",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 73.2,
-      "backhandStability": 69.5,
-      "serveAttackRate": 37.9,
-      "receiveWinRate": 56.2,
-      "rallyConvertRate": 58.2,
-      "shortGameRate": 57.7,
-      "speedIndex": 81.4,
-      "placementRate": 57.4
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m192",
-    "opponent": "周雨",
-    "date": "2026-02-11",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 70.8,
-      "backhandStability": 70.8,
-      "serveAttackRate": 62.2,
-      "receiveWinRate": 46.2,
-      "rallyConvertRate": 38.5,
-      "shortGameRate": 73.2,
-      "speedIndex": 80,
-      "placementRate": 58.7
-    }
-  },
-  {
     "playerId": "p01",
     "matchId": "m193",
     "opponent": "松平健太",
@@ -3298,40 +1853,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m195",
-    "opponent": "刘丁硕",
-    "date": "2026-02-13",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 72.6,
-      "backhandStability": 62.2,
-      "serveAttackRate": 34.1,
-      "receiveWinRate": 55.5,
-      "rallyConvertRate": 61.1,
-      "shortGameRate": 48.7,
-      "speedIndex": 71.6,
-      "placementRate": 68.1
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m196",
-    "opponent": "吉村真晴",
-    "date": "2026-02-15",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 50.2,
-      "backhandStability": 72.1,
-      "serveAttackRate": 55.5,
-      "receiveWinRate": 68.1,
-      "rallyConvertRate": 61.1,
-      "shortGameRate": 65.9,
-      "speedIndex": 72.6,
-      "placementRate": 45.9
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m197",
     "opponent": "朱世爀",
@@ -3363,40 +1884,6 @@
       "shortGameRate": 52.3,
       "speedIndex": 88.8,
       "placementRate": 49.7
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m199",
-    "opponent": "吉村真晴",
-    "date": "2026-02-22",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 57.7,
-      "backhandStability": 71.1,
-      "serveAttackRate": 66.8,
-      "receiveWinRate": 56.6,
-      "rallyConvertRate": 48.1,
-      "shortGameRate": 60.3,
-      "speedIndex": 84.8,
-      "placementRate": 55.7
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m200",
-    "opponent": "卡尔松",
-    "date": "2026-02-23",
-    "month": "2026-02",
-    "indicators": {
-      "forehandWinRate": 49.9,
-      "backhandStability": 52,
-      "serveAttackRate": 55.7,
-      "receiveWinRate": 65,
-      "rallyConvertRate": 58.3,
-      "shortGameRate": 62.6,
-      "speedIndex": 67.7,
-      "placementRate": 63.1
     }
   },
   {
@@ -3502,57 +1989,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m207",
-    "opponent": "袁励岑",
-    "date": "2026-03-09",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 76,
-      "backhandStability": 67.4,
-      "serveAttackRate": 48.5,
-      "receiveWinRate": 70.3,
-      "rallyConvertRate": 61.5,
-      "shortGameRate": 64.9,
-      "speedIndex": 51.8,
-      "placementRate": 62.3
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m208",
-    "opponent": "刘丁硕",
-    "date": "2026-03-09",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 70.6,
-      "backhandStability": 62.7,
-      "serveAttackRate": 60.6,
-      "receiveWinRate": 63.2,
-      "rallyConvertRate": 39.3,
-      "shortGameRate": 49.4,
-      "speedIndex": 56.7,
-      "placementRate": 55.5
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m209",
-    "opponent": "张继科",
-    "date": "2026-03-09",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 64.5,
-      "backhandStability": 60.6,
-      "serveAttackRate": 65.8,
-      "receiveWinRate": 66.7,
-      "rallyConvertRate": 41.3,
-      "shortGameRate": 57,
-      "speedIndex": 62.1,
-      "placementRate": 70.5
-    }
-  },
-  {
     "playerId": "p04",
     "matchId": "m210",
     "opponent": "西蒙高茨",
@@ -3567,23 +2003,6 @@
       "shortGameRate": 48.1,
       "speedIndex": 57,
       "placementRate": 56.2
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m211",
-    "opponent": "萨姆索诺夫",
-    "date": "2026-03-16",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 72.9,
-      "backhandStability": 67.7,
-      "serveAttackRate": 51,
-      "receiveWinRate": 60.9,
-      "rallyConvertRate": 41.3,
-      "shortGameRate": 46,
-      "speedIndex": 79.2,
-      "placementRate": 50.9
     }
   },
   {
@@ -3672,40 +2091,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m217",
-    "opponent": "赵子豪",
-    "date": "2026-03-22",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 77.5,
-      "backhandStability": 56.1,
-      "serveAttackRate": 52.1,
-      "receiveWinRate": 42.4,
-      "rallyConvertRate": 61.2,
-      "shortGameRate": 73.8,
-      "speedIndex": 76.8,
-      "placementRate": 68
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m218",
-    "opponent": "加西纳",
-    "date": "2026-03-24",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 69.8,
-      "backhandStability": 68.1,
-      "serveAttackRate": 61.5,
-      "receiveWinRate": 42.4,
-      "rallyConvertRate": 59.7,
-      "shortGameRate": 74.4,
-      "speedIndex": 87.8,
-      "placementRate": 72.6
-    }
-  },
-  {
     "playerId": "p05",
     "matchId": "m219",
     "opponent": "水谷隼",
@@ -3737,23 +2122,6 @@
       "shortGameRate": 61.5,
       "speedIndex": 89,
       "placementRate": 45.2
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m221",
-    "opponent": "卡尔松",
-    "date": "2026-03-28",
-    "month": "2026-03",
-    "indicators": {
-      "forehandWinRate": 74.4,
-      "backhandStability": 55.2,
-      "serveAttackRate": 46.9,
-      "receiveWinRate": 64.8,
-      "rallyConvertRate": 46.6,
-      "shortGameRate": 48.5,
-      "speedIndex": 78.1,
-      "placementRate": 48.2
     }
   },
   {
@@ -3825,40 +2193,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m226",
-    "opponent": "李尚洙",
-    "date": "2026-04-05",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 67.2,
-      "backhandStability": 64.9,
-      "serveAttackRate": 60.2,
-      "receiveWinRate": 67.6,
-      "rallyConvertRate": 46.2,
-      "shortGameRate": 56.4,
-      "speedIndex": 82.8,
-      "placementRate": 58.6
-    }
-  },
-  {
-    "playerId": "p08",
-    "matchId": "m227",
-    "opponent": "向鹏",
-    "date": "2026-04-06",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 73.5,
-      "backhandStability": 59,
-      "serveAttackRate": 68.3,
-      "receiveWinRate": 67.6,
-      "rallyConvertRate": 50.9,
-      "shortGameRate": 58.9,
-      "speedIndex": 56.2,
-      "placementRate": 65.8
-    }
-  },
-  {
     "playerId": "p04",
     "matchId": "m228",
     "opponent": "加西纳",
@@ -3893,23 +2227,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m230",
-    "opponent": "周雨",
-    "date": "2026-04-09",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 77.7,
-      "backhandStability": 56.1,
-      "serveAttackRate": 58.5,
-      "receiveWinRate": 64.8,
-      "rallyConvertRate": 50.1,
-      "shortGameRate": 71.2,
-      "speedIndex": 87,
-      "placementRate": 58.8
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m231",
     "opponent": "于子洋",
@@ -3924,23 +2241,6 @@
       "shortGameRate": 52.5,
       "speedIndex": 74,
       "placementRate": 45
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m232",
-    "opponent": "费雷塔斯",
-    "date": "2026-04-13",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 50,
-      "backhandStability": 60.5,
-      "serveAttackRate": 31.7,
-      "receiveWinRate": 42.6,
-      "rallyConvertRate": 49.5,
-      "shortGameRate": 58,
-      "speedIndex": 58.2,
-      "placementRate": 74.5
     }
   },
   {
@@ -3978,40 +2278,6 @@
     }
   },
   {
-    "playerId": "p09",
-    "matchId": "m235",
-    "opponent": "周雨",
-    "date": "2026-04-22",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 73.9,
-      "backhandStability": 67.4,
-      "serveAttackRate": 64.1,
-      "receiveWinRate": 41.8,
-      "rallyConvertRate": 57.1,
-      "shortGameRate": 66.4,
-      "speedIndex": 71.4,
-      "placementRate": 65.8
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m236",
-    "opponent": "黄镇廷",
-    "date": "2026-04-23",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 60.1,
-      "backhandStability": 58.1,
-      "serveAttackRate": 58.3,
-      "receiveWinRate": 45.2,
-      "rallyConvertRate": 40.2,
-      "shortGameRate": 49.1,
-      "speedIndex": 68.7,
-      "placementRate": 73.7
-    }
-  },
-  {
     "playerId": "p03",
     "matchId": "m237",
     "opponent": "薛飞",
@@ -4026,23 +2292,6 @@
       "shortGameRate": 47.7,
       "speedIndex": 55.6,
       "placementRate": 65.2
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m238",
-    "opponent": "唐鹏",
-    "date": "2026-04-25",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 69.7,
-      "backhandStability": 74.1,
-      "serveAttackRate": 62.2,
-      "receiveWinRate": 54,
-      "rallyConvertRate": 57,
-      "shortGameRate": 66.3,
-      "speedIndex": 90.7,
-      "placementRate": 68.7
     }
   },
   {
@@ -4114,23 +2363,6 @@
     }
   },
   {
-    "playerId": "p11",
-    "matchId": "m243",
-    "opponent": "严升",
-    "date": "2026-04-27",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 78.2,
-      "backhandStability": 79.8,
-      "serveAttackRate": 60.8,
-      "receiveWinRate": 58.2,
-      "rallyConvertRate": 57.2,
-      "shortGameRate": 59.5,
-      "speedIndex": 76.2,
-      "placementRate": 62.2
-    }
-  },
-  {
     "playerId": "p06",
     "matchId": "m244",
     "opponent": "朱世爀",
@@ -4145,23 +2377,6 @@
       "shortGameRate": 66.7,
       "speedIndex": 70.2,
       "placementRate": 63
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m245",
-    "opponent": "马特",
-    "date": "2026-04-30",
-    "month": "2026-04",
-    "indicators": {
-      "forehandWinRate": 77.9,
-      "backhandStability": 67.4,
-      "serveAttackRate": 50.4,
-      "receiveWinRate": 58.2,
-      "rallyConvertRate": 63.1,
-      "shortGameRate": 60.5,
-      "speedIndex": 85.3,
-      "placementRate": 42.5
     }
   },
   {
@@ -4233,23 +2448,6 @@
     }
   },
   {
-    "playerId": "p08",
-    "matchId": "m250",
-    "opponent": "张继科",
-    "date": "2026-05-11",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 76.8,
-      "backhandStability": 63.2,
-      "serveAttackRate": 49.8,
-      "receiveWinRate": 55.4,
-      "rallyConvertRate": 61.5,
-      "shortGameRate": 68.1,
-      "speedIndex": 83.3,
-      "placementRate": 59.4
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m251",
     "opponent": "阿鲁纳",
@@ -4281,23 +2479,6 @@
       "shortGameRate": 54,
       "speedIndex": 57.2,
       "placementRate": 78.4
-    }
-  },
-  {
-    "playerId": "p11",
-    "matchId": "m253",
-    "opponent": "徐晨皓",
-    "date": "2026-05-15",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 69.4,
-      "backhandStability": 71.6,
-      "serveAttackRate": 45.9,
-      "receiveWinRate": 47.9,
-      "rallyConvertRate": 49.2,
-      "shortGameRate": 71.9,
-      "speedIndex": 74,
-      "placementRate": 40.1
     }
   },
   {
@@ -4420,23 +2601,6 @@
     }
   },
   {
-    "playerId": "p07",
-    "matchId": "m261",
-    "opponent": "格罗斯",
-    "date": "2026-05-21",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 80.1,
-      "backhandStability": 71.8,
-      "serveAttackRate": 61.7,
-      "receiveWinRate": 56.2,
-      "rallyConvertRate": 53.6,
-      "shortGameRate": 51.2,
-      "speedIndex": 79.3,
-      "placementRate": 61.5
-    }
-  },
-  {
     "playerId": "p02",
     "matchId": "m262",
     "opponent": "徐晨皓",
@@ -4451,57 +2615,6 @@
       "shortGameRate": 55.9,
       "speedIndex": 69.8,
       "placementRate": 41.1
-    }
-  },
-  {
-    "playerId": "p07",
-    "matchId": "m263",
-    "opponent": "加西纳",
-    "date": "2026-05-22",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 62.7,
-      "backhandStability": 78.3,
-      "serveAttackRate": 62.4,
-      "receiveWinRate": 47.5,
-      "rallyConvertRate": 55,
-      "shortGameRate": 54.5,
-      "speedIndex": 90.1,
-      "placementRate": 47.9
-    }
-  },
-  {
-    "playerId": "p09",
-    "matchId": "m264",
-    "opponent": "K·卡尔伯格",
-    "date": "2026-05-24",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 61.8,
-      "backhandStability": 64.9,
-      "serveAttackRate": 65.8,
-      "receiveWinRate": 55.7,
-      "rallyConvertRate": 62.3,
-      "shortGameRate": 53.1,
-      "speedIndex": 51.2,
-      "placementRate": 52.9
-    }
-  },
-  {
-    "playerId": "p10",
-    "matchId": "m265",
-    "opponent": "庄智渊",
-    "date": "2026-05-26",
-    "month": "2026-05",
-    "indicators": {
-      "forehandWinRate": 61.3,
-      "backhandStability": 66.3,
-      "serveAttackRate": 60.9,
-      "receiveWinRate": 40.1,
-      "rallyConvertRate": 63.7,
-      "shortGameRate": 58,
-      "speedIndex": 69.4,
-      "placementRate": 54
     }
   },
   {
@@ -4536,6 +2649,2097 @@
       "shortGameRate": 45.5,
       "speedIndex": 82.4,
       "placementRate": 48.2
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1000",
+    "opponent": "波尔",
+    "date": "2025-06-04",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 79.5,
+      "backhandStability": 54.8,
+      "serveAttackRate": 36.3,
+      "receiveWinRate": 43.6,
+      "rallyConvertRate": 64.6,
+      "shortGameRate": 61.8,
+      "speedIndex": 76.6,
+      "placementRate": 41.3
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1001",
+    "opponent": "法尔克",
+    "date": "2025-06-03",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 62.7,
+      "backhandStability": 69.1,
+      "serveAttackRate": 55.3,
+      "receiveWinRate": 65.1,
+      "rallyConvertRate": 63.1,
+      "shortGameRate": 56.8,
+      "speedIndex": 70.2,
+      "placementRate": 51.1
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1002",
+    "opponent": "波尔",
+    "date": "2025-06-28",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 80.0,
+      "backhandStability": 51.4,
+      "serveAttackRate": 49.0,
+      "receiveWinRate": 49.7,
+      "rallyConvertRate": 43.6,
+      "shortGameRate": 70.5,
+      "speedIndex": 54.6,
+      "placementRate": 55.2
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1003",
+    "opponent": "李尚洙",
+    "date": "2025-07-28",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 74.9,
+      "backhandStability": 77.3,
+      "serveAttackRate": 62.8,
+      "receiveWinRate": 58.8,
+      "rallyConvertRate": 73.9,
+      "shortGameRate": 55.1,
+      "speedIndex": 74.8,
+      "placementRate": 73.2
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1004",
+    "opponent": "侯英超",
+    "date": "2025-07-20",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 83.4,
+      "backhandStability": 68.1,
+      "serveAttackRate": 61.7,
+      "receiveWinRate": 41.6,
+      "rallyConvertRate": 44.1,
+      "shortGameRate": 51.6,
+      "speedIndex": 53.6,
+      "placementRate": 49.3
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1005",
+    "opponent": "K·卡尔伯格",
+    "date": "2025-08-13",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 70.0,
+      "backhandStability": 78.4,
+      "serveAttackRate": 37.3,
+      "receiveWinRate": 52.4,
+      "rallyConvertRate": 61.8,
+      "shortGameRate": 68.1,
+      "speedIndex": 80.8,
+      "placementRate": 42.9
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1006",
+    "opponent": "西蒙高茨",
+    "date": "2025-09-06",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 79.1,
+      "backhandStability": 51.5,
+      "serveAttackRate": 47.1,
+      "receiveWinRate": 74.6,
+      "rallyConvertRate": 60.6,
+      "shortGameRate": 62.3,
+      "speedIndex": 80.8,
+      "placementRate": 73.7
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1007",
+    "opponent": "奥恰洛夫",
+    "date": "2025-09-25",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 62.6,
+      "backhandStability": 46.3,
+      "serveAttackRate": 44.2,
+      "receiveWinRate": 49.4,
+      "rallyConvertRate": 43.4,
+      "shortGameRate": 77.7,
+      "speedIndex": 89.4,
+      "placementRate": 52.6
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1008",
+    "opponent": "弗朗西斯卡",
+    "date": "2025-09-21",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 68.1,
+      "backhandStability": 81.6,
+      "serveAttackRate": 50.6,
+      "receiveWinRate": 49.3,
+      "rallyConvertRate": 44.9,
+      "shortGameRate": 62.5,
+      "speedIndex": 61.8,
+      "placementRate": 63.4
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1009",
+    "opponent": "李尚洙",
+    "date": "2025-10-13",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 62.2,
+      "backhandStability": 84.9,
+      "serveAttackRate": 52.9,
+      "receiveWinRate": 43.2,
+      "rallyConvertRate": 36.9,
+      "shortGameRate": 44.4,
+      "speedIndex": 78.2,
+      "placementRate": 71.7
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1010",
+    "opponent": "加西纳",
+    "date": "2025-10-14",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 57.1,
+      "backhandStability": 60.3,
+      "serveAttackRate": 74.8,
+      "receiveWinRate": 58.5,
+      "rallyConvertRate": 73.8,
+      "shortGameRate": 74.4,
+      "speedIndex": 50.5,
+      "placementRate": 68.8
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1011",
+    "opponent": "侯英超",
+    "date": "2025-10-22",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 72.7,
+      "backhandStability": 55.7,
+      "serveAttackRate": 58.8,
+      "receiveWinRate": 43.9,
+      "rallyConvertRate": 52.4,
+      "shortGameRate": 58.1,
+      "speedIndex": 92.9,
+      "placementRate": 75.0
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1012",
+    "opponent": "薛飞",
+    "date": "2025-11-17",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 60.9,
+      "backhandStability": 81.5,
+      "serveAttackRate": 69.2,
+      "receiveWinRate": 50.4,
+      "rallyConvertRate": 60.6,
+      "shortGameRate": 64.4,
+      "speedIndex": 56.9,
+      "placementRate": 70.5
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1013",
+    "opponent": "薛飞",
+    "date": "2025-11-18",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 85.4,
+      "backhandStability": 81.7,
+      "serveAttackRate": 57.0,
+      "receiveWinRate": 57.1,
+      "rallyConvertRate": 39.5,
+      "shortGameRate": 54.5,
+      "speedIndex": 94.3,
+      "placementRate": 72.3
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1014",
+    "opponent": "卡尔松",
+    "date": "2025-12-02",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 84.0,
+      "backhandStability": 82.9,
+      "serveAttackRate": 33.9,
+      "receiveWinRate": 57.0,
+      "rallyConvertRate": 37.8,
+      "shortGameRate": 70.4,
+      "speedIndex": 84.5,
+      "placementRate": 45.1
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1015",
+    "opponent": "雨果",
+    "date": "2026-01-18",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 63.7,
+      "backhandStability": 79.9,
+      "serveAttackRate": 49.0,
+      "receiveWinRate": 47.4,
+      "rallyConvertRate": 56.6,
+      "shortGameRate": 69.2,
+      "speedIndex": 59.1,
+      "placementRate": 52.5
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1016",
+    "opponent": "闫安",
+    "date": "2026-01-22",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 67.3,
+      "backhandStability": 81.0,
+      "serveAttackRate": 50.3,
+      "receiveWinRate": 48.7,
+      "rallyConvertRate": 37.6,
+      "shortGameRate": 40.8,
+      "speedIndex": 74.9,
+      "placementRate": 63.5
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1017",
+    "opponent": "周雨",
+    "date": "2026-02-03",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 75.8,
+      "backhandStability": 54.2,
+      "serveAttackRate": 70.7,
+      "receiveWinRate": 70.1,
+      "rallyConvertRate": 37.8,
+      "shortGameRate": 49.5,
+      "speedIndex": 80.1,
+      "placementRate": 48.6
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1018",
+    "opponent": "严升",
+    "date": "2026-03-24",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 84.1,
+      "backhandStability": 68.0,
+      "serveAttackRate": 40.9,
+      "receiveWinRate": 56.6,
+      "rallyConvertRate": 51.3,
+      "shortGameRate": 43.8,
+      "speedIndex": 79.7,
+      "placementRate": 54.2
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1019",
+    "opponent": "马特",
+    "date": "2026-04-15",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 79.1,
+      "backhandStability": 71.9,
+      "serveAttackRate": 74.3,
+      "receiveWinRate": 43.4,
+      "rallyConvertRate": 51.1,
+      "shortGameRate": 53.6,
+      "speedIndex": 88.8,
+      "placementRate": 49.9
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1020",
+    "opponent": "西蒙高茨",
+    "date": "2026-04-07",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 69.8,
+      "backhandStability": 61.9,
+      "serveAttackRate": 42.5,
+      "receiveWinRate": 48.7,
+      "rallyConvertRate": 71.9,
+      "shortGameRate": 57.7,
+      "speedIndex": 88.8,
+      "placementRate": 62.0
+    }
+  },
+  {
+    "playerId": "p13",
+    "matchId": "m1021",
+    "opponent": "西蒙高茨",
+    "date": "2026-05-21",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 82.6,
+      "backhandStability": 83.8,
+      "serveAttackRate": 71.7,
+      "receiveWinRate": 69.7,
+      "rallyConvertRate": 41.7,
+      "shortGameRate": 59.4,
+      "speedIndex": 59.6,
+      "placementRate": 56.0
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1022",
+    "opponent": "郑荣植",
+    "date": "2025-06-06",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 55.1,
+      "backhandStability": 60.6,
+      "serveAttackRate": 71.7,
+      "receiveWinRate": 67.5,
+      "rallyConvertRate": 46.4,
+      "shortGameRate": 67.9,
+      "speedIndex": 82.9,
+      "placementRate": 71.3
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1023",
+    "opponent": "弗朗西斯卡",
+    "date": "2025-07-23",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 60.1,
+      "backhandStability": 56.9,
+      "serveAttackRate": 73.6,
+      "receiveWinRate": 60.3,
+      "rallyConvertRate": 56.7,
+      "shortGameRate": 69.9,
+      "speedIndex": 52.6,
+      "placementRate": 63.4
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1024",
+    "opponent": "严升",
+    "date": "2025-07-17",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 83.1,
+      "backhandStability": 51.3,
+      "serveAttackRate": 73.2,
+      "receiveWinRate": 42.8,
+      "rallyConvertRate": 42.4,
+      "shortGameRate": 63.8,
+      "speedIndex": 80.4,
+      "placementRate": 49.4
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1025",
+    "opponent": "侯英超",
+    "date": "2025-07-04",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 73.8,
+      "backhandStability": 68.2,
+      "serveAttackRate": 31.8,
+      "receiveWinRate": 42.9,
+      "rallyConvertRate": 61.3,
+      "shortGameRate": 62.6,
+      "speedIndex": 64.2,
+      "placementRate": 50.4
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1026",
+    "opponent": "黄镇廷",
+    "date": "2025-08-23",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 62.9,
+      "backhandStability": 60.8,
+      "serveAttackRate": 60.2,
+      "receiveWinRate": 50.5,
+      "rallyConvertRate": 47.6,
+      "shortGameRate": 70.1,
+      "speedIndex": 53.3,
+      "placementRate": 58.3
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1027",
+    "opponent": "林昀儒",
+    "date": "2025-08-19",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 57.4,
+      "backhandStability": 53.5,
+      "serveAttackRate": 41.9,
+      "receiveWinRate": 72.7,
+      "rallyConvertRate": 70.2,
+      "shortGameRate": 75.2,
+      "speedIndex": 66.6,
+      "placementRate": 46.3
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1028",
+    "opponent": "西蒙高茨",
+    "date": "2025-08-27",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 78.2,
+      "backhandStability": 69.5,
+      "serveAttackRate": 74.4,
+      "receiveWinRate": 62.9,
+      "rallyConvertRate": 35.3,
+      "shortGameRate": 72.7,
+      "speedIndex": 63.5,
+      "placementRate": 66.5
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1029",
+    "opponent": "林昀儒",
+    "date": "2025-09-09",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 84.4,
+      "backhandStability": 74.7,
+      "serveAttackRate": 37.0,
+      "receiveWinRate": 49.9,
+      "rallyConvertRate": 43.4,
+      "shortGameRate": 53.7,
+      "speedIndex": 80.9,
+      "placementRate": 74.1
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1030",
+    "opponent": "K·卡尔伯格",
+    "date": "2025-10-16",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 84.9,
+      "backhandStability": 78.8,
+      "serveAttackRate": 34.2,
+      "receiveWinRate": 54.8,
+      "rallyConvertRate": 46.1,
+      "shortGameRate": 40.1,
+      "speedIndex": 84.7,
+      "placementRate": 65.5
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1031",
+    "opponent": "雨果",
+    "date": "2025-10-09",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 79.5,
+      "backhandStability": 67.1,
+      "serveAttackRate": 49.2,
+      "receiveWinRate": 40.3,
+      "rallyConvertRate": 38.0,
+      "shortGameRate": 75.3,
+      "speedIndex": 90.7,
+      "placementRate": 61.8
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1032",
+    "opponent": "李尚洙",
+    "date": "2025-10-27",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 74.2,
+      "backhandStability": 50.9,
+      "serveAttackRate": 35.7,
+      "receiveWinRate": 50.8,
+      "rallyConvertRate": 71.0,
+      "shortGameRate": 71.8,
+      "speedIndex": 88.7,
+      "placementRate": 76.0
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1033",
+    "opponent": "卡尔松",
+    "date": "2025-11-22",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 77.0,
+      "backhandStability": 59.1,
+      "serveAttackRate": 55.2,
+      "receiveWinRate": 70.6,
+      "rallyConvertRate": 74.0,
+      "shortGameRate": 70.0,
+      "speedIndex": 91.7,
+      "placementRate": 49.5
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1034",
+    "opponent": "赵子豪",
+    "date": "2025-12-26",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 60.8,
+      "backhandStability": 61.5,
+      "serveAttackRate": 38.1,
+      "receiveWinRate": 72.4,
+      "rallyConvertRate": 66.3,
+      "shortGameRate": 56.5,
+      "speedIndex": 80.1,
+      "placementRate": 69.4
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1035",
+    "opponent": "雨果",
+    "date": "2026-01-09",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 81.0,
+      "backhandStability": 49.3,
+      "serveAttackRate": 69.2,
+      "receiveWinRate": 70.1,
+      "rallyConvertRate": 43.9,
+      "shortGameRate": 72.7,
+      "speedIndex": 70.7,
+      "placementRate": 52.2
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1036",
+    "opponent": "波尔",
+    "date": "2026-02-08",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 76.8,
+      "backhandStability": 60.9,
+      "serveAttackRate": 42.5,
+      "receiveWinRate": 42.4,
+      "rallyConvertRate": 65.9,
+      "shortGameRate": 54.0,
+      "speedIndex": 72.9,
+      "placementRate": 67.2
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1037",
+    "opponent": "波尔",
+    "date": "2026-03-11",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 58.8,
+      "backhandStability": 83.8,
+      "serveAttackRate": 38.0,
+      "receiveWinRate": 73.7,
+      "rallyConvertRate": 45.6,
+      "shortGameRate": 44.3,
+      "speedIndex": 69.6,
+      "placementRate": 69.1
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1038",
+    "opponent": "丹羽孝希",
+    "date": "2026-03-11",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 75.0,
+      "backhandStability": 65.5,
+      "serveAttackRate": 47.3,
+      "receiveWinRate": 60.2,
+      "rallyConvertRate": 45.2,
+      "shortGameRate": 68.4,
+      "speedIndex": 50.1,
+      "placementRate": 77.0
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1039",
+    "opponent": "方博",
+    "date": "2026-03-18",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 78.7,
+      "backhandStability": 74.7,
+      "serveAttackRate": 60.2,
+      "receiveWinRate": 52.7,
+      "rallyConvertRate": 37.8,
+      "shortGameRate": 66.6,
+      "speedIndex": 64.9,
+      "placementRate": 52.6
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1040",
+    "opponent": "侯英超",
+    "date": "2026-04-24",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 64.9,
+      "backhandStability": 57.4,
+      "serveAttackRate": 48.4,
+      "receiveWinRate": 54.1,
+      "rallyConvertRate": 46.8,
+      "shortGameRate": 45.1,
+      "speedIndex": 68.9,
+      "placementRate": 77.6
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1041",
+    "opponent": "侯英超",
+    "date": "2026-05-24",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 60.7,
+      "backhandStability": 67.8,
+      "serveAttackRate": 48.3,
+      "receiveWinRate": 69.2,
+      "rallyConvertRate": 47.2,
+      "shortGameRate": 48.4,
+      "speedIndex": 85.4,
+      "placementRate": 64.3
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1042",
+    "opponent": "松平健太",
+    "date": "2026-05-11",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 69.6,
+      "backhandStability": 72.0,
+      "serveAttackRate": 53.0,
+      "receiveWinRate": 67.8,
+      "rallyConvertRate": 73.4,
+      "shortGameRate": 69.4,
+      "speedIndex": 79.6,
+      "placementRate": 51.4
+    }
+  },
+  {
+    "playerId": "p14",
+    "matchId": "m1043",
+    "opponent": "闫安",
+    "date": "2026-05-22",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 75.4,
+      "backhandStability": 48.7,
+      "serveAttackRate": 72.8,
+      "receiveWinRate": 48.2,
+      "rallyConvertRate": 47.4,
+      "shortGameRate": 72.3,
+      "speedIndex": 56.6,
+      "placementRate": 41.8
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1044",
+    "opponent": "马特",
+    "date": "2025-06-20",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 80.4,
+      "backhandStability": 63.2,
+      "serveAttackRate": 69.9,
+      "receiveWinRate": 60.1,
+      "rallyConvertRate": 63.7,
+      "shortGameRate": 55.4,
+      "speedIndex": 68.0,
+      "placementRate": 45.9
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1045",
+    "opponent": "波尔",
+    "date": "2025-06-23",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 84.5,
+      "backhandStability": 79.4,
+      "serveAttackRate": 69.8,
+      "receiveWinRate": 67.2,
+      "rallyConvertRate": 43.8,
+      "shortGameRate": 72.2,
+      "speedIndex": 81.3,
+      "placementRate": 58.6
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1046",
+    "opponent": "严升",
+    "date": "2025-07-08",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 83.0,
+      "backhandStability": 63.3,
+      "serveAttackRate": 66.1,
+      "receiveWinRate": 63.4,
+      "rallyConvertRate": 74.5,
+      "shortGameRate": 63.8,
+      "speedIndex": 92.8,
+      "placementRate": 75.7
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1047",
+    "opponent": "徐晨皓",
+    "date": "2025-07-20",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 78.7,
+      "backhandStability": 65.2,
+      "serveAttackRate": 67.4,
+      "receiveWinRate": 59.2,
+      "rallyConvertRate": 70.9,
+      "shortGameRate": 69.7,
+      "speedIndex": 71.4,
+      "placementRate": 50.4
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1048",
+    "opponent": "徐晨皓",
+    "date": "2025-07-08",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 76.0,
+      "backhandStability": 75.6,
+      "serveAttackRate": 53.5,
+      "receiveWinRate": 61.9,
+      "rallyConvertRate": 46.0,
+      "shortGameRate": 43.1,
+      "speedIndex": 62.9,
+      "placementRate": 50.9
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1049",
+    "opponent": "张本智和",
+    "date": "2025-08-18",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 59.6,
+      "backhandStability": 54.3,
+      "serveAttackRate": 61.2,
+      "receiveWinRate": 64.7,
+      "rallyConvertRate": 37.6,
+      "shortGameRate": 56.3,
+      "speedIndex": 74.4,
+      "placementRate": 56.6
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1050",
+    "opponent": "徐晨皓",
+    "date": "2025-08-07",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 68.9,
+      "backhandStability": 81.2,
+      "serveAttackRate": 56.3,
+      "receiveWinRate": 64.3,
+      "rallyConvertRate": 69.3,
+      "shortGameRate": 70.6,
+      "speedIndex": 67.1,
+      "placementRate": 40.2
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1051",
+    "opponent": "薛飞",
+    "date": "2025-09-10",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 67.9,
+      "backhandStability": 80.7,
+      "serveAttackRate": 67.6,
+      "receiveWinRate": 58.8,
+      "rallyConvertRate": 64.4,
+      "shortGameRate": 72.0,
+      "speedIndex": 90.4,
+      "placementRate": 59.5
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1052",
+    "opponent": "丹羽孝希",
+    "date": "2025-09-09",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 71.0,
+      "backhandStability": 60.6,
+      "serveAttackRate": 60.1,
+      "receiveWinRate": 67.9,
+      "rallyConvertRate": 64.0,
+      "shortGameRate": 73.6,
+      "speedIndex": 91.4,
+      "placementRate": 79.2
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1053",
+    "opponent": "严升",
+    "date": "2025-10-01",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 68.0,
+      "backhandStability": 67.6,
+      "serveAttackRate": 31.2,
+      "receiveWinRate": 62.5,
+      "rallyConvertRate": 40.4,
+      "shortGameRate": 58.5,
+      "speedIndex": 52.3,
+      "placementRate": 55.2
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1054",
+    "opponent": "松平健太",
+    "date": "2025-10-07",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 65.8,
+      "backhandStability": 75.4,
+      "serveAttackRate": 47.1,
+      "receiveWinRate": 66.3,
+      "rallyConvertRate": 68.3,
+      "shortGameRate": 50.1,
+      "speedIndex": 53.7,
+      "placementRate": 40.8
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1055",
+    "opponent": "奥恰洛夫",
+    "date": "2025-10-18",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 88.0,
+      "backhandStability": 59.0,
+      "serveAttackRate": 59.3,
+      "receiveWinRate": 67.3,
+      "rallyConvertRate": 61.1,
+      "shortGameRate": 70.2,
+      "speedIndex": 92.7,
+      "placementRate": 48.0
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1056",
+    "opponent": "莫雷加德",
+    "date": "2025-11-20",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 62.9,
+      "backhandStability": 63.9,
+      "serveAttackRate": 35.1,
+      "receiveWinRate": 73.2,
+      "rallyConvertRate": 53.6,
+      "shortGameRate": 50.2,
+      "speedIndex": 66.6,
+      "placementRate": 64.2
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1057",
+    "opponent": "林昀儒",
+    "date": "2025-12-23",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 80.7,
+      "backhandStability": 51.6,
+      "serveAttackRate": 44.0,
+      "receiveWinRate": 60.3,
+      "rallyConvertRate": 72.2,
+      "shortGameRate": 63.0,
+      "speedIndex": 90.9,
+      "placementRate": 55.0
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1058",
+    "opponent": "法尔克",
+    "date": "2025-12-23",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 57.5,
+      "backhandStability": 72.6,
+      "serveAttackRate": 58.2,
+      "receiveWinRate": 43.6,
+      "rallyConvertRate": 65.9,
+      "shortGameRate": 74.0,
+      "speedIndex": 77.0,
+      "placementRate": 44.8
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1059",
+    "opponent": "赵子豪",
+    "date": "2025-12-19",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 56.4,
+      "backhandStability": 66.3,
+      "serveAttackRate": 59.8,
+      "receiveWinRate": 42.4,
+      "rallyConvertRate": 60.9,
+      "shortGameRate": 40.5,
+      "speedIndex": 68.9,
+      "placementRate": 59.6
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1060",
+    "opponent": "闫安",
+    "date": "2026-01-12",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 84.4,
+      "backhandStability": 63.4,
+      "serveAttackRate": 36.9,
+      "receiveWinRate": 46.2,
+      "rallyConvertRate": 55.9,
+      "shortGameRate": 66.0,
+      "speedIndex": 77.7,
+      "placementRate": 76.8
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1061",
+    "opponent": "弗朗西斯卡",
+    "date": "2026-01-25",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 70.3,
+      "backhandStability": 78.0,
+      "serveAttackRate": 56.7,
+      "receiveWinRate": 51.3,
+      "rallyConvertRate": 44.8,
+      "shortGameRate": 77.4,
+      "speedIndex": 62.6,
+      "placementRate": 58.0
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1062",
+    "opponent": "加西纳",
+    "date": "2026-02-19",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 77.1,
+      "backhandStability": 58.5,
+      "serveAttackRate": 52.2,
+      "receiveWinRate": 51.4,
+      "rallyConvertRate": 54.5,
+      "shortGameRate": 54.2,
+      "speedIndex": 61.6,
+      "placementRate": 51.2
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1063",
+    "opponent": "周雨",
+    "date": "2026-02-20",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 84.0,
+      "backhandStability": 67.2,
+      "serveAttackRate": 53.2,
+      "receiveWinRate": 46.7,
+      "rallyConvertRate": 44.7,
+      "shortGameRate": 56.3,
+      "speedIndex": 75.0,
+      "placementRate": 49.6
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1064",
+    "opponent": "周雨",
+    "date": "2026-03-21",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 71.2,
+      "backhandStability": 76.7,
+      "serveAttackRate": 34.2,
+      "receiveWinRate": 47.8,
+      "rallyConvertRate": 62.7,
+      "shortGameRate": 52.2,
+      "speedIndex": 76.2,
+      "placementRate": 58.9
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1065",
+    "opponent": "李尚洙",
+    "date": "2026-03-17",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 69.0,
+      "backhandStability": 74.8,
+      "serveAttackRate": 44.9,
+      "receiveWinRate": 64.6,
+      "rallyConvertRate": 45.8,
+      "shortGameRate": 50.1,
+      "speedIndex": 55.4,
+      "placementRate": 47.7
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1066",
+    "opponent": "西蒙高茨",
+    "date": "2026-04-24",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 86.4,
+      "backhandStability": 72.6,
+      "serveAttackRate": 38.6,
+      "receiveWinRate": 65.9,
+      "rallyConvertRate": 46.1,
+      "shortGameRate": 63.6,
+      "speedIndex": 84.2,
+      "placementRate": 63.9
+    }
+  },
+  {
+    "playerId": "p15",
+    "matchId": "m1067",
+    "opponent": "法尔克",
+    "date": "2026-05-27",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 64.8,
+      "backhandStability": 59.4,
+      "serveAttackRate": 43.6,
+      "receiveWinRate": 64.8,
+      "rallyConvertRate": 40.1,
+      "shortGameRate": 41.8,
+      "speedIndex": 52.5,
+      "placementRate": 51.7
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1068",
+    "opponent": "马特",
+    "date": "2025-06-21",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 79.8,
+      "backhandStability": 49.1,
+      "serveAttackRate": 30.6,
+      "receiveWinRate": 50.0,
+      "rallyConvertRate": 54.1,
+      "shortGameRate": 53.6,
+      "speedIndex": 93.4,
+      "placementRate": 50.1
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1069",
+    "opponent": "徐晨皓",
+    "date": "2025-07-04",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 57.2,
+      "backhandStability": 64.7,
+      "serveAttackRate": 56.0,
+      "receiveWinRate": 64.0,
+      "rallyConvertRate": 41.1,
+      "shortGameRate": 72.4,
+      "speedIndex": 92.7,
+      "placementRate": 43.4
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1070",
+    "opponent": "林昀儒",
+    "date": "2025-07-08",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 73.4,
+      "backhandStability": 61.6,
+      "serveAttackRate": 56.8,
+      "receiveWinRate": 61.6,
+      "rallyConvertRate": 66.0,
+      "shortGameRate": 55.2,
+      "speedIndex": 90.9,
+      "placementRate": 51.9
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1071",
+    "opponent": "庄智渊",
+    "date": "2025-08-14",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 73.8,
+      "backhandStability": 47.4,
+      "serveAttackRate": 73.2,
+      "receiveWinRate": 43.5,
+      "rallyConvertRate": 65.5,
+      "shortGameRate": 65.0,
+      "speedIndex": 61.9,
+      "placementRate": 43.2
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1072",
+    "opponent": "雨果",
+    "date": "2025-08-08",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 73.2,
+      "backhandStability": 51.3,
+      "serveAttackRate": 48.4,
+      "receiveWinRate": 64.1,
+      "rallyConvertRate": 53.8,
+      "shortGameRate": 41.3,
+      "speedIndex": 63.0,
+      "placementRate": 51.3
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1073",
+    "opponent": "松平健太",
+    "date": "2025-08-28",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 57.3,
+      "backhandStability": 54.3,
+      "serveAttackRate": 41.9,
+      "receiveWinRate": 67.7,
+      "rallyConvertRate": 58.6,
+      "shortGameRate": 72.2,
+      "speedIndex": 58.9,
+      "placementRate": 44.6
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1074",
+    "opponent": "莫雷加德",
+    "date": "2025-09-21",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 85.0,
+      "backhandStability": 78.1,
+      "serveAttackRate": 33.2,
+      "receiveWinRate": 45.8,
+      "rallyConvertRate": 47.3,
+      "shortGameRate": 70.0,
+      "speedIndex": 75.6,
+      "placementRate": 51.5
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1075",
+    "opponent": "周雨",
+    "date": "2025-10-15",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 65.0,
+      "backhandStability": 61.1,
+      "serveAttackRate": 42.3,
+      "receiveWinRate": 58.9,
+      "rallyConvertRate": 52.5,
+      "shortGameRate": 63.9,
+      "speedIndex": 90.0,
+      "placementRate": 69.4
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1076",
+    "opponent": "波尔",
+    "date": "2025-11-09",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 58.0,
+      "backhandStability": 83.5,
+      "serveAttackRate": 67.6,
+      "receiveWinRate": 60.1,
+      "rallyConvertRate": 73.0,
+      "shortGameRate": 80.0,
+      "speedIndex": 80.3,
+      "placementRate": 50.8
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1077",
+    "opponent": "薛飞",
+    "date": "2025-11-02",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 80.0,
+      "backhandStability": 63.8,
+      "serveAttackRate": 59.3,
+      "receiveWinRate": 72.1,
+      "rallyConvertRate": 42.3,
+      "shortGameRate": 63.4,
+      "speedIndex": 78.6,
+      "placementRate": 59.7
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1078",
+    "opponent": "弗朗西斯卡",
+    "date": "2025-11-03",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 66.5,
+      "backhandStability": 58.3,
+      "serveAttackRate": 60.2,
+      "receiveWinRate": 70.0,
+      "rallyConvertRate": 48.2,
+      "shortGameRate": 67.7,
+      "speedIndex": 63.0,
+      "placementRate": 77.8
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1079",
+    "opponent": "松平健太",
+    "date": "2025-12-02",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 57.9,
+      "backhandStability": 55.1,
+      "serveAttackRate": 35.2,
+      "receiveWinRate": 67.0,
+      "rallyConvertRate": 69.6,
+      "shortGameRate": 73.0,
+      "speedIndex": 50.1,
+      "placementRate": 74.8
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1080",
+    "opponent": "丹羽孝希",
+    "date": "2025-12-15",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 56.8,
+      "backhandStability": 65.7,
+      "serveAttackRate": 58.0,
+      "receiveWinRate": 57.4,
+      "rallyConvertRate": 52.7,
+      "shortGameRate": 42.1,
+      "speedIndex": 62.0,
+      "placementRate": 45.2
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1081",
+    "opponent": "松平健太",
+    "date": "2025-12-10",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 84.1,
+      "backhandStability": 64.4,
+      "serveAttackRate": 31.3,
+      "receiveWinRate": 62.1,
+      "rallyConvertRate": 67.0,
+      "shortGameRate": 68.4,
+      "speedIndex": 64.0,
+      "placementRate": 40.5
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1082",
+    "opponent": "卡尔松",
+    "date": "2026-01-03",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 87.7,
+      "backhandStability": 81.5,
+      "serveAttackRate": 50.8,
+      "receiveWinRate": 44.1,
+      "rallyConvertRate": 68.3,
+      "shortGameRate": 59.9,
+      "speedIndex": 82.2,
+      "placementRate": 60.4
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1083",
+    "opponent": "丹羽孝希",
+    "date": "2026-01-09",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 82.5,
+      "backhandStability": 84.2,
+      "serveAttackRate": 41.0,
+      "receiveWinRate": 59.3,
+      "rallyConvertRate": 50.3,
+      "shortGameRate": 76.9,
+      "speedIndex": 72.9,
+      "placementRate": 75.2
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1084",
+    "opponent": "薛飞",
+    "date": "2026-02-09",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 81.1,
+      "backhandStability": 61.6,
+      "serveAttackRate": 72.0,
+      "receiveWinRate": 57.8,
+      "rallyConvertRate": 67.8,
+      "shortGameRate": 51.3,
+      "speedIndex": 63.4,
+      "placementRate": 63.5
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1085",
+    "opponent": "马特",
+    "date": "2026-03-16",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 59.9,
+      "backhandStability": 66.5,
+      "serveAttackRate": 45.5,
+      "receiveWinRate": 59.3,
+      "rallyConvertRate": 56.7,
+      "shortGameRate": 58.2,
+      "speedIndex": 64.5,
+      "placementRate": 47.5
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1086",
+    "opponent": "卡尔松",
+    "date": "2026-03-23",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 73.9,
+      "backhandStability": 54.3,
+      "serveAttackRate": 64.9,
+      "receiveWinRate": 41.5,
+      "rallyConvertRate": 64.8,
+      "shortGameRate": 68.2,
+      "speedIndex": 86.5,
+      "placementRate": 55.4
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1087",
+    "opponent": "赵子豪",
+    "date": "2026-03-22",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 82.1,
+      "backhandStability": 84.2,
+      "serveAttackRate": 52.3,
+      "receiveWinRate": 41.3,
+      "rallyConvertRate": 55.1,
+      "shortGameRate": 63.6,
+      "speedIndex": 89.1,
+      "placementRate": 75.0
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1088",
+    "opponent": "阿鲁纳",
+    "date": "2026-04-04",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 85.0,
+      "backhandStability": 45.6,
+      "serveAttackRate": 36.5,
+      "receiveWinRate": 70.5,
+      "rallyConvertRate": 73.8,
+      "shortGameRate": 43.0,
+      "speedIndex": 85.2,
+      "placementRate": 50.6
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1089",
+    "opponent": "周雨",
+    "date": "2026-04-20",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 68.1,
+      "backhandStability": 48.2,
+      "serveAttackRate": 44.8,
+      "receiveWinRate": 63.6,
+      "rallyConvertRate": 56.3,
+      "shortGameRate": 78.2,
+      "speedIndex": 78.2,
+      "placementRate": 75.5
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1090",
+    "opponent": "西蒙高茨",
+    "date": "2026-05-28",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 56.2,
+      "backhandStability": 47.7,
+      "serveAttackRate": 58.4,
+      "receiveWinRate": 72.2,
+      "rallyConvertRate": 74.9,
+      "shortGameRate": 69.9,
+      "speedIndex": 69.5,
+      "placementRate": 43.9
+    }
+  },
+  {
+    "playerId": "p16",
+    "matchId": "m1091",
+    "opponent": "周雨",
+    "date": "2026-05-21",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 83.8,
+      "backhandStability": 62.7,
+      "serveAttackRate": 61.2,
+      "receiveWinRate": 71.6,
+      "rallyConvertRate": 36.8,
+      "shortGameRate": 71.8,
+      "speedIndex": 63.2,
+      "placementRate": 55.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1092",
+    "opponent": "阿鲁纳",
+    "date": "2025-06-08",
+    "month": "2025-06",
+    "indicators": {
+      "forehandWinRate": 68.6,
+      "backhandStability": 72.3,
+      "serveAttackRate": 38.1,
+      "receiveWinRate": 46.1,
+      "rallyConvertRate": 59.4,
+      "shortGameRate": 55.3,
+      "speedIndex": 80.7,
+      "placementRate": 59.9
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1093",
+    "opponent": "卡尔松",
+    "date": "2025-07-05",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 70.2,
+      "backhandStability": 55.2,
+      "serveAttackRate": 41.5,
+      "receiveWinRate": 40.3,
+      "rallyConvertRate": 67.2,
+      "shortGameRate": 76.0,
+      "speedIndex": 80.5,
+      "placementRate": 46.3
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1094",
+    "opponent": "李尚洙",
+    "date": "2025-07-15",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 87.6,
+      "backhandStability": 57.0,
+      "serveAttackRate": 73.3,
+      "receiveWinRate": 64.2,
+      "rallyConvertRate": 53.3,
+      "shortGameRate": 52.1,
+      "speedIndex": 95.0,
+      "placementRate": 74.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1095",
+    "opponent": "卡尔松",
+    "date": "2025-07-04",
+    "month": "2025-07",
+    "indicators": {
+      "forehandWinRate": 67.6,
+      "backhandStability": 59.4,
+      "serveAttackRate": 43.3,
+      "receiveWinRate": 64.5,
+      "rallyConvertRate": 35.9,
+      "shortGameRate": 73.2,
+      "speedIndex": 67.8,
+      "placementRate": 40.3
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1096",
+    "opponent": "刘丁硕",
+    "date": "2025-08-25",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 87.1,
+      "backhandStability": 81.4,
+      "serveAttackRate": 63.5,
+      "receiveWinRate": 69.1,
+      "rallyConvertRate": 71.1,
+      "shortGameRate": 71.0,
+      "speedIndex": 60.4,
+      "placementRate": 72.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1097",
+    "opponent": "闫安",
+    "date": "2025-08-08",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 61.3,
+      "backhandStability": 55.0,
+      "serveAttackRate": 64.0,
+      "receiveWinRate": 66.9,
+      "rallyConvertRate": 62.2,
+      "shortGameRate": 45.5,
+      "speedIndex": 54.4,
+      "placementRate": 65.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1098",
+    "opponent": "庄智渊",
+    "date": "2025-08-02",
+    "month": "2025-08",
+    "indicators": {
+      "forehandWinRate": 81.0,
+      "backhandStability": 46.3,
+      "serveAttackRate": 46.4,
+      "receiveWinRate": 44.6,
+      "rallyConvertRate": 71.4,
+      "shortGameRate": 53.1,
+      "speedIndex": 68.7,
+      "placementRate": 48.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1099",
+    "opponent": "阿鲁纳",
+    "date": "2025-09-12",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 71.6,
+      "backhandStability": 55.9,
+      "serveAttackRate": 37.4,
+      "receiveWinRate": 72.0,
+      "rallyConvertRate": 72.8,
+      "shortGameRate": 78.7,
+      "speedIndex": 63.3,
+      "placementRate": 74.8
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1100",
+    "opponent": "林昀儒",
+    "date": "2025-09-26",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 70.5,
+      "backhandStability": 48.0,
+      "serveAttackRate": 63.9,
+      "receiveWinRate": 47.9,
+      "rallyConvertRate": 62.1,
+      "shortGameRate": 67.0,
+      "speedIndex": 67.9,
+      "placementRate": 73.8
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1101",
+    "opponent": "李尚洙",
+    "date": "2025-09-18",
+    "month": "2025-09",
+    "indicators": {
+      "forehandWinRate": 58.0,
+      "backhandStability": 60.8,
+      "serveAttackRate": 41.9,
+      "receiveWinRate": 44.3,
+      "rallyConvertRate": 49.7,
+      "shortGameRate": 70.0,
+      "speedIndex": 61.8,
+      "placementRate": 55.2
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1102",
+    "opponent": "林昀儒",
+    "date": "2025-10-12",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 77.3,
+      "backhandStability": 63.9,
+      "serveAttackRate": 57.9,
+      "receiveWinRate": 73.0,
+      "rallyConvertRate": 48.1,
+      "shortGameRate": 64.4,
+      "speedIndex": 79.1,
+      "placementRate": 65.4
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1103",
+    "opponent": "严升",
+    "date": "2025-10-15",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 78.1,
+      "backhandStability": 71.0,
+      "serveAttackRate": 35.3,
+      "receiveWinRate": 41.6,
+      "rallyConvertRate": 36.5,
+      "shortGameRate": 79.8,
+      "speedIndex": 55.2,
+      "placementRate": 49.4
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1104",
+    "opponent": "莫雷加德",
+    "date": "2025-10-18",
+    "month": "2025-10",
+    "indicators": {
+      "forehandWinRate": 67.8,
+      "backhandStability": 59.8,
+      "serveAttackRate": 72.7,
+      "receiveWinRate": 64.4,
+      "rallyConvertRate": 56.6,
+      "shortGameRate": 63.5,
+      "speedIndex": 82.7,
+      "placementRate": 75.4
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1105",
+    "opponent": "徐晨皓",
+    "date": "2025-11-04",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 71.1,
+      "backhandStability": 61.3,
+      "serveAttackRate": 72.8,
+      "receiveWinRate": 41.1,
+      "rallyConvertRate": 49.8,
+      "shortGameRate": 57.7,
+      "speedIndex": 92.8,
+      "placementRate": 74.2
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1106",
+    "opponent": "方博",
+    "date": "2025-11-04",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 67.1,
+      "backhandStability": 81.1,
+      "serveAttackRate": 59.0,
+      "receiveWinRate": 42.1,
+      "rallyConvertRate": 46.0,
+      "shortGameRate": 78.7,
+      "speedIndex": 92.7,
+      "placementRate": 73.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1107",
+    "opponent": "方博",
+    "date": "2025-11-03",
+    "month": "2025-11",
+    "indicators": {
+      "forehandWinRate": 62.0,
+      "backhandStability": 70.6,
+      "serveAttackRate": 73.7,
+      "receiveWinRate": 41.8,
+      "rallyConvertRate": 48.3,
+      "shortGameRate": 79.6,
+      "speedIndex": 85.4,
+      "placementRate": 48.2
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1108",
+    "opponent": "费雷塔斯",
+    "date": "2025-12-07",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 62.1,
+      "backhandStability": 79.8,
+      "serveAttackRate": 44.8,
+      "receiveWinRate": 45.2,
+      "rallyConvertRate": 71.0,
+      "shortGameRate": 40.1,
+      "speedIndex": 88.6,
+      "placementRate": 45.8
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1109",
+    "opponent": "西蒙高茨",
+    "date": "2025-12-05",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 63.3,
+      "backhandStability": 52.0,
+      "serveAttackRate": 59.7,
+      "receiveWinRate": 40.9,
+      "rallyConvertRate": 35.6,
+      "shortGameRate": 71.6,
+      "speedIndex": 60.7,
+      "placementRate": 53.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1110",
+    "opponent": "K·卡尔伯格",
+    "date": "2025-12-06",
+    "month": "2025-12",
+    "indicators": {
+      "forehandWinRate": 56.7,
+      "backhandStability": 74.7,
+      "serveAttackRate": 53.7,
+      "receiveWinRate": 66.1,
+      "rallyConvertRate": 54.0,
+      "shortGameRate": 71.1,
+      "speedIndex": 73.1,
+      "placementRate": 44.4
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1111",
+    "opponent": "加西纳",
+    "date": "2026-01-08",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 56.4,
+      "backhandStability": 76.3,
+      "serveAttackRate": 69.0,
+      "receiveWinRate": 58.3,
+      "rallyConvertRate": 53.3,
+      "shortGameRate": 78.6,
+      "speedIndex": 52.7,
+      "placementRate": 59.2
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1112",
+    "opponent": "丹羽孝希",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 77.6,
+      "backhandStability": 64.6,
+      "serveAttackRate": 70.9,
+      "receiveWinRate": 42.6,
+      "rallyConvertRate": 38.2,
+      "shortGameRate": 64.3,
+      "speedIndex": 53.0,
+      "placementRate": 51.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1113",
+    "opponent": "费雷塔斯",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "indicators": {
+      "forehandWinRate": 73.1,
+      "backhandStability": 58.0,
+      "serveAttackRate": 74.8,
+      "receiveWinRate": 58.6,
+      "rallyConvertRate": 53.1,
+      "shortGameRate": 64.2,
+      "speedIndex": 54.5,
+      "placementRate": 68.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1114",
+    "opponent": "侯英超",
+    "date": "2026-02-21",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 80.4,
+      "backhandStability": 73.8,
+      "serveAttackRate": 39.7,
+      "receiveWinRate": 55.8,
+      "rallyConvertRate": 44.1,
+      "shortGameRate": 53.6,
+      "speedIndex": 70.4,
+      "placementRate": 56.6
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1115",
+    "opponent": "黄镇廷",
+    "date": "2026-02-04",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 69.1,
+      "backhandStability": 71.6,
+      "serveAttackRate": 46.8,
+      "receiveWinRate": 45.3,
+      "rallyConvertRate": 71.9,
+      "shortGameRate": 42.7,
+      "speedIndex": 87.4,
+      "placementRate": 43.7
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1116",
+    "opponent": "刘丁硕",
+    "date": "2026-02-04",
+    "month": "2026-02",
+    "indicators": {
+      "forehandWinRate": 79.4,
+      "backhandStability": 77.5,
+      "serveAttackRate": 55.0,
+      "receiveWinRate": 60.5,
+      "rallyConvertRate": 57.5,
+      "shortGameRate": 53.2,
+      "speedIndex": 55.5,
+      "placementRate": 54.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1117",
+    "opponent": "丹羽孝希",
+    "date": "2026-03-25",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 83.6,
+      "backhandStability": 73.8,
+      "serveAttackRate": 73.6,
+      "receiveWinRate": 61.0,
+      "rallyConvertRate": 49.1,
+      "shortGameRate": 63.1,
+      "speedIndex": 59.6,
+      "placementRate": 66.3
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1118",
+    "opponent": "马特",
+    "date": "2026-03-08",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 58.6,
+      "backhandStability": 78.8,
+      "serveAttackRate": 46.5,
+      "receiveWinRate": 66.7,
+      "rallyConvertRate": 58.0,
+      "shortGameRate": 72.3,
+      "speedIndex": 88.0,
+      "placementRate": 79.0
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1119",
+    "opponent": "加西纳",
+    "date": "2026-03-27",
+    "month": "2026-03",
+    "indicators": {
+      "forehandWinRate": 75.2,
+      "backhandStability": 70.7,
+      "serveAttackRate": 31.2,
+      "receiveWinRate": 72.5,
+      "rallyConvertRate": 68.2,
+      "shortGameRate": 50.7,
+      "speedIndex": 58.1,
+      "placementRate": 68.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1120",
+    "opponent": "李尚洙",
+    "date": "2026-04-11",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 55.2,
+      "backhandStability": 79.8,
+      "serveAttackRate": 55.5,
+      "receiveWinRate": 54.0,
+      "rallyConvertRate": 40.7,
+      "shortGameRate": 65.3,
+      "speedIndex": 51.4,
+      "placementRate": 69.8
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1121",
+    "opponent": "郑荣植",
+    "date": "2026-04-07",
+    "month": "2026-04",
+    "indicators": {
+      "forehandWinRate": 68.9,
+      "backhandStability": 58.6,
+      "serveAttackRate": 46.7,
+      "receiveWinRate": 65.3,
+      "rallyConvertRate": 66.1,
+      "shortGameRate": 62.7,
+      "speedIndex": 53.8,
+      "placementRate": 42.1
+    }
+  },
+  {
+    "playerId": "p17",
+    "matchId": "m1122",
+    "opponent": "加西纳",
+    "date": "2026-05-25",
+    "month": "2026-05",
+    "indicators": {
+      "forehandWinRate": 56.6,
+      "backhandStability": 48.3,
+      "serveAttackRate": 49.9,
+      "receiveWinRate": 54.8,
+      "rallyConvertRate": 59.3,
+      "shortGameRate": 56.6,
+      "speedIndex": 59.7,
+      "placementRate": 60.5
     }
   }
 ]
