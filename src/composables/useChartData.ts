@@ -5,11 +5,11 @@ import matchRecordsData from '../assets/data/matchRecords.json'
 
 const allRecords: MatchRecord[] = matchRecordsData as MatchRecord[]
 
-function getPlayerRecords(playerId: string): MatchRecord[] {
+export function getPlayerRecords(playerId: string): MatchRecord[] {
   return allRecords.filter(r => r.playerId === playerId)
 }
 
-function averageIndicators(records: MatchRecord[]): Indicators {
+export function averageIndicators(records: MatchRecord[]): Indicators {
   if (records.length === 0) {
     const zero: Record<string, number> = {}
     for (const ind of INDICATOR_LIST) {

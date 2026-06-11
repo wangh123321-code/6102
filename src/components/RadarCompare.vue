@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import { ref, watch, onMounted, onUnmounted } from 'vue'
-import type { Player, IndicatorKey } from '../types'
+import { ref, watch, computed, onMounted, onUnmounted } from 'vue'
+import type { Player, IndicatorKey, Indicators } from '../types'
 import { INDICATOR_LIST } from '../types'
 import echarts from '../config/echarts'
-import { useChartData } from '../composables/useChartData'
+import { useChartData, getPlayerRecords, averageIndicators } from '../composables/useChartData'
 import { buildRadarOption } from '../utils/chartOptions'
+import TrainingAdviceCard from './TrainingAdviceCard.vue'
 
 const props = defineProps<{
   playerA: Player | null
@@ -22,6 +23,20 @@ const { radarValuesA, radarValuesB, alertDimensions } = useChartData(
   () => props.playerA,
   () => props.playerB,
 )
+
+const indicatorsA = computed<Record<IndicatorKey, number> | null>(() => {
+  if (!props.playerA) return null
+  const records = getPlayerRecords(props.playerA.id)
+  const avg = averageIndicators(records)
+  return avg as unknown as Record<IndicatorKey, number>
+})
+
+const indicatorsB = computed<Record<IndicatorKey, number> | null>(() => {
+  if (!props.playerB) return null
+  const records = getPlayerRecords(props.playerB.id)
+  const avg = averageIndicators(records)
+  return avg as unknown as Record<IndicatorKey, number>
+})
 
 function renderChart() {
   if (!chartInstance || !chartRef.value) return
@@ -86,26 +101,43 @@ watch(
 </script>
 
 <template>
-  <div class="radar-compare relative bg-[#0F1923] rounded-xl border border-[#1A2A3A] overflow-hidden">
-    <div class="absolute top-3 right-3 z-10 flex items-center gap-2">
-      <span
-        v-if="alertDimensions.length > 0"
-        class="text-[10px] text-[#FF6B6B] bg-[#FF6B6B]/10 px-2 py-1 rounded animate-pulse-alert"
+  <div class="radar-compare space-y-3">
+    <div class="relative bg-[#0F1923] rounded-xl border border-[#1A2A3A] overflow-hidden">
+      <div class="absolute top-3 right-3 z-10 flex items-center gap-2">
+        <span
+          v-if="alertDimensions.length > 0"
+          class="text-[10px] text-[#FF6B6B] bg-[#FF6B6B]/10 px-2 py-1 rounded animate-pulse-alert"
+        >
+          {{ alertDimensions.length }}项指标差异超15%
+        </span>
+        <span class="text-[10px] text-[#4A5568] bg-[#1A2A3A]/80 px-2 py-1 rounded">
+          点击维度点查看明细
+        </span>
+      </div>
+      <div ref="chartRef" class="w-full h-full min-h-[340px]" />
+      <div
+        v-if="!playerA && !playerB"
+        class="absolute inset-0 flex items-center justify-center bg-[#0F1923]/80"
       >
-        {{ alertDimensions.length }}项指标差异超15%
-      </span>
-      <span class="text-[10px] text-[#4A5568] bg-[#1A2A3A]/80 px-2 py-1 rounded">
-        点击维度点查看明细
-      </span>
+        <div class="text-center">
+          <div class="text-2xl mb-2 opacity-30">📊</div>
+          <p class="text-[#4A5568] text-sm">请在左侧选择选手进行对比</p>
+        </div>
+      </div>
     </div>
-    <div ref="chartRef" class="w-full h-full min-h-[340px]" />
-    <div
-      v-if="!playerA && !playerB"
-      class="absolute inset-0 flex items-center justify-center bg-[#0F1923]/80"
-    >
-      <div class="text-center">
-        <div class="text-2xl mb-2 opacity-30">📊</div>
-        <p class="text-[#4A5568] text-sm">请在左侧选择选手进行对比</p>
+
+    <div v-if="playerA || playerB" class="flex gap-3">
+      <div v-if="playerA" class="flex-1 min-w-0">
+        <TrainingAdviceCard
+          :player-name="playerA.name"
+          :indicators="indicatorsA"
+        />
+      </div>
+      <div v-if="playerB" class="flex-1 min-w-0">
+        <TrainingAdviceCard
+          :player-name="playerB.name"
+          :indicators="indicatorsB"
+        />
       </div>
     </div>
   </div>
